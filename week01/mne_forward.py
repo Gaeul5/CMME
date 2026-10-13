@@ -17,3 +17,5 @@ info = raw.info
 fwd_own = mne.make_forward_solution(
     info, trans=meg_path / "sample_audvis_raw-trans.fif",
     src=src, bem=bem, meg=True, eeg=False, mindist=5.0)
+
+mne.write_forward_solution("sample-fwd.fif", fwd_own, overwrite=True)
