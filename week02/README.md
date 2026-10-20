@@ -37,7 +37,7 @@ python week02/mini_e2e.py
 
 MLP는 중심 찍기보다 오차가 훨씬 작음. MLP와 dipole scan은 비슷한 수준임. 한 번 실행한 결과이므로 어느 쪽이 낫다고는 판단하지 않음.
 
-위 숫자는 Python 3.13, numpy 2.2.6, mne 1.13.2, scikit-learn 1.9.1에서 나온 값임. Python 3.14, numpy 1.26.4 환경에서는 MLP 7.3 / dipole scan 45.5로 다르게 나옴. 두 환경 모두 실행 중 numpy 경고(divide by zero, overflow)가 뜨며, 원인은 확인하지 못함.
+위 숫자는 Python 3.13, numpy 2.2.6, mne 1.13.2, scikit-learn 1.9.1에서 나온 값임. Python 3.12, numpy 1.26.4, mne 1.12.1에서도 비슷하게 나옴 (MLP 15.6 / dipole scan 13.4). Python 3.14.6, numpy 1.26.4, mne 1.12.1 환경 한 곳에서만 MLP 7.3 / dipole scan 45.5로 크게 다르게 나왔고, 원인은 확인하지 못함.
 
 ## 한계
 
@@ -46,7 +46,7 @@ MLP는 중심 찍기보다 오차가 훨씬 작음. MLP와 dipole scan은 비슷
 - source가 점 쌍극자 하나이고 시간에 따른 활동 신호가 없음. 클러스터, 신경질량모델(Jansen-Rit 등)은 사용하지 않음.
 - SNR 10 dB 하나, 시드 하나로만 실행함.
 - 실제 EEG 데이터는 사용하지 않음.
-- 실행 환경에 따라 결과가 달라지며 경고 원인도 확인하지 못함 (위 결과 항목 참고).
+- 실행 중 numpy 경고(divide by zero, overflow)가 뜨며 원인은 확인하지 못함. 환경 하나에서 결과가 크게 달랐던 점도 원인을 모름 (위 결과 항목 참고).
 
 ## 참고
 
