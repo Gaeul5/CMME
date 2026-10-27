@@ -3,6 +3,7 @@
 (2) 선형 모델 vs MLP (비선형성이 필요한가)
 (3) 고전 역해법 MNE / sLORETA 와 비교
 """
+import sys
 import time
 import numpy as np
 import mne
@@ -13,14 +14,21 @@ from sklearn.neural_network import MLPRegressor
 mne.set_log_level("ERROR")
 rng = np.random.default_rng(0)
 
-names = ("Fp1 Fp2 F7 F3 Fz F4 F8 FC5 FC1 FC2 FC6 T7 C3 Cz C4 T8 CP5 CP1 CP2 CP6 "
-         "P7 P3 Pz P4 P8 O1 Oz O2").split()
-try:
-    montage = mne.channels.make_standard_montage("colin27_1020")
-except ValueError:
-    montage = mne.channels.make_standard_montage("standard_1020")
+# 몽타주 선택: python week03/compare.py [orig28|biosemi16|biosemi32|biosemi64]
+MONTAGE = sys.argv[1] if len(sys.argv) > 1 else "orig28"
+if MONTAGE == "orig28":
+    names = ("Fp1 Fp2 F7 F3 Fz F4 F8 FC5 FC1 FC2 FC6 T7 C3 Cz C4 T8 CP5 CP1 CP2 CP6 "
+             "P7 P3 Pz P4 P8 O1 Oz O2").split()
+    try:
+        montage = mne.channels.make_standard_montage("colin27_1020")
+    except ValueError:
+        montage = mne.channels.make_standard_montage("standard_1020")
+else:  # Biosemi 표준 캡 (16/32/64채널)
+    montage = mne.channels.make_standard_montage(MONTAGE)
+    names = montage.ch_names
 pos_all = montage.get_positions()["ch_pos"]
 ch_pos = {n: pos_all[n] / np.linalg.norm(pos_all[n]) * 0.096 for n in names}
+print(f"몽타주 {MONTAGE}: {len(names)}채널")
 info = mne.create_info(names, sfreq=250.0, ch_types="eeg")
 info.set_montage(mne.channels.make_dig_montage(ch_pos=ch_pos, coord_frame="head"))
 sphere = mne.make_sphere_model(r0=(0.0, 0.0, 0.002), head_radius=0.095, info=info)

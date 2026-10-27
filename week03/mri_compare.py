@@ -6,7 +6,7 @@ MNE sample 데이터(한 사람의 실제 MRI)로 만든 3층 BEM과 피질 sour
 - 조건: SNR 10 / 30 dB / 잡음 없음, 그리고 실제 방향이 피질 수직에서 30도 틀어진 경우
   (30도 조건: 학습은 수직 방향 데이터로, 테스트만 틀어진 데이터로 함)
 
-실행: python week03/mri_compare.py
+실행: python week03/mri_compare.py [데이터경로 또는 -] [orig59|biosemi16|biosemi32|biosemi64]
 (MNE sample 데이터가 없으면 처음 실행 때 약 1.6GB를 내려받는다)
 """
 import os
@@ -22,7 +22,7 @@ mne.set_log_level("ERROR")
 rng = np.random.default_rng(0)
 
 # 1. 데이터 위치 (기본: MNE sample 데이터. 다른 폴더를 쓰려면 인자로 경로 전달)
-data_path = sys.argv[1] if len(sys.argv) > 1 else str(mne.datasets.sample.data_path())
+data_path = sys.argv[1] if len(sys.argv) > 1 and sys.argv[1] != "-" else str(mne.datasets.sample.data_path())
 
 
 def first_existing(*cands):
@@ -42,9 +42,25 @@ trans_file = first_existing("MEG/sample/sample_audvis_raw-trans.fif",
                             "MEG/sample/sample_audvis_trunc-trans.fif")
 print("BEM :", os.path.basename(bem_file))
 
-# 2. 실제 전극 위치 (EEG만, 불량 채널 제외)
-info = mne.io.read_info(raw_file)
-info = mne.pick_info(info, mne.pick_types(info, meg=False, eeg=True, exclude="bads"))
+# 2. 전극 위치
+#   orig59: sample 데이터의 실제 EEG 전극 (불량 채널 제외 59개)
+#   biosemi16/32/64: Biosemi 표준 캡. 표준 위치를 sample 머리 크기에 맞게 균일하게 키운 뒤,
+#   forward 계산 때 MNE가 BEM 두피 표면으로 전극을 투영한다
+MONTAGE = sys.argv[2] if len(sys.argv) > 2 else "orig59"
+info_raw = mne.io.read_info(raw_file)
+info = mne.pick_info(info_raw, mne.pick_types(info_raw, meg=False, eeg=True, exclude="bads"))
+if MONTAGE != "orig59":
+    real = np.array([ch["loc"][:3] for ch in info["chs"]])  # sample 실제 전극 (head 좌표, m)
+    montage = mne.channels.make_standard_montage(MONTAGE)
+    std = montage.get_positions()["ch_pos"]
+    std_arr = np.array([std[n] for n in montage.ch_names])
+    # 두 전극 세트의 윗부분(z>0) 평균 반지름 비율로 균일 스케일
+    scale = np.linalg.norm(real[real[:, 2] > 0], axis=1).mean() / np.linalg.norm(std_arr[std_arr[:, 2] > 0], axis=1).mean()
+    ch_pos = {n: std[n] * scale for n in montage.ch_names}
+    info = mne.create_info(montage.ch_names, sfreq=250.0, ch_types="eeg")
+    info.set_montage(mne.channels.make_dig_montage(ch_pos=ch_pos, coord_frame="head"))
+    print(f"표준 몽타주 스케일 {scale:.3f}")
+print(f"몽타주 {MONTAGE}: {len(info['ch_names'])}채널")
 
 # 3. forward: 실제 MRI 기반 3층 BEM + 피질 source space
 src = mne.read_source_spaces(src_file)
