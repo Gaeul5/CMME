@@ -93,8 +93,8 @@ class Warp:
         return m / np.linalg.norm(m, axis=1, keepdims=True)
 
 
-def make_head(h, P, base_vertno=None):
-    """머리 h의 (정답 forward, 모델 forward, source 위치 mm, 정보) 반환. h=0은 변형 없는 원래 머리."""
+def make_geometry(h, P, base_vertno=None):
+    """머리 h의 변형된 BEM 표면, source space, 전극 위치(모델/정답)와 정보. 같은 h면 항상 같은 머리가 나옴."""
     rng = np.random.default_rng((5000 if STRONG else 1000) + h)
     surfs = {s["id"]: s for s in mne.read_bem_surfaces(P["bem"])}
     src0 = mne.read_source_spaces(P["src"])
@@ -129,24 +129,38 @@ def make_head(h, P, base_vertno=None):
             s["nuse"] = len(base_vertno[k])
     E = to_head(W(to_mri(E_head)))
     E_true = E + np.random.default_rng((6000 if STRONG else 2000) + h).normal(scale=JITTER_MM / 1000, size=E.shape)
-
-    out = {}
-    for tag, sk, pos_e in (("true", skull_true, E_true), ("model", SKULL_MODEL, E)):
-        surfs_c = copy.deepcopy(new)
-        for s in surfs_c:
-            s["sigma"] = {F.FIFFV_BEM_SURF_ID_BRAIN: 0.3, F.FIFFV_BEM_SURF_ID_SKULL: sk, F.FIFFV_BEM_SURF_ID_HEAD: 0.3}[s["id"]]
-        bem = mne.make_bem_solution(surfs_c)
-        info = mne.create_info(names, 1000.0, "eeg")
-        info.set_montage(mne.channels.make_dig_montage(ch_pos=dict(zip(names, pos_e)), coord_frame="head"))
-        fwd = mne.make_forward_solution(info, trans=trans, src=src, bem=bem, meg=False, eeg=True,
-                                        mindist=0.0 if base_vertno is not None else 5.0)
-        fwd = mne.convert_forward_solution(fwd, surf_ori=True, force_fixed=False, use_cps=False)  # 모든 머리에서 같은 기준(vertex 법선)
-        G = fwd["sol"]["data"].reshape(len(names), -1, 3)
-        out[tag] = G
-        out["vertno"] = [s["vertno"] for s in fwd["src"]]
-        out["pos"] = fwd["source_rr"] * 1000
     scale = np.cbrt(abs(np.linalg.det(W.A)))
-    return out, dict(skull_true=skull_true, thick_mm=thick * 1000, scale=scale, elec_mm=E * 1000)
+    return dict(surfs=new, src=src, trans=trans, names=names, E=E, E_true=E_true, skull_true=skull_true,
+                mindist=0.0 if base_vertno is not None else 5.0,
+                meta=dict(skull_true=skull_true, thick_mm=thick * 1000, scale=scale, elec_mm=E * 1000))
+
+
+def bem_for(geom, skull):
+    surfs_c = copy.deepcopy(geom["surfs"])
+    for s in surfs_c:
+        s["sigma"] = {F.FIFFV_BEM_SURF_ID_BRAIN: 0.3, F.FIFFV_BEM_SURF_ID_SKULL: skull, F.FIFFV_BEM_SURF_ID_HEAD: 0.3}[s["id"]]
+    return mne.make_bem_solution(surfs_c)
+
+
+def forward_for(geom, bem, pos_e):
+    """주어진 BEM 해(전도도 포함)와 전극 위치(머리 좌표, m)로 리드필드 (채널, source, 3)."""
+    info = mne.create_info(geom["names"], 1000.0, "eeg")
+    info.set_montage(mne.channels.make_dig_montage(ch_pos=dict(zip(geom["names"], pos_e)), coord_frame="head"))
+    fwd = mne.make_forward_solution(info, trans=geom["trans"], src=geom["src"], bem=bem, meg=False, eeg=True,
+                                    mindist=geom["mindist"])
+    fwd = mne.convert_forward_solution(fwd, surf_ori=True, force_fixed=False, use_cps=False)  # 모든 머리에서 같은 기준(vertex 법선)
+    G = fwd["sol"]["data"].reshape(len(geom["names"]), -1, 3)
+    return G, [s["vertno"] for s in fwd["src"]], fwd["source_rr"] * 1000
+
+
+def make_head(h, P, base_vertno=None):
+    """머리 h의 (정답 forward, 모델 forward, source 위치 mm, 정보) 반환. h=0은 변형 없는 원래 머리."""
+    geom = make_geometry(h, P, base_vertno)
+    out = {}
+    for tag, sk, pos_e in (("true", geom["skull_true"], geom["E_true"]), ("model", SKULL_MODEL, geom["E"])):
+        G, vertno, pos = forward_for(geom, bem_for(geom, sk), pos_e)
+        out[tag], out["vertno"], out["pos"] = G, vertno, pos
+    return out, geom["meta"]
 
 
 def build(data_path, n_heads, start=1):

@@ -101,3 +101,49 @@ for name, svg in (("fig_multihead_K", fig1), ("fig_multihead", fig2), ("fig_mult
     with open(os.path.join(HERE, f"{name}.svg"), "w", encoding="utf-8") as f:
         f.write(svg)
     print(name, len(svg.encode()))
+
+# ---------------------------------------------------------------------------
+# 5-5 그림 (adapt_seed*.csv가 있을 때)
+# ---------------------------------------------------------------------------
+if os.path.exists(os.path.join(HERE, "adapt_seed0.csv")):
+    A = load("adapt")
+    cond = "평가 머리 6개, 사건 200개로 적응"
+    # 그림 4: 적응 전후
+    x0, y0, w, h, ymax = 56, 50, 470, 220, 16
+    o = [grid(x0, y0, w, h, ymax, 2, "새 머리 6개 평균 위치 오차 mm")]
+    ser = [("기본(0.006)", "기본 전도도 0.006", "#9aa0a6"), ("적응", "1분 기록으로 고른 전도도", "#2b6cb0"),
+           ("상한(진짜에 가장 가까운 후보)", "후보 중 진짜에 가장 가까운 값 (상한)", "#7fb2e5")]
+    groups = [("sLORETA", "sLORETA"), ("어댑터", "어댑터 (자기 머리)")]
+    gw = w / 2
+    bw = gw * 0.7 / 3
+    for g, (pre, lab) in enumerate(groups):
+        gx = x0 + g * gw + gw * 0.15
+        for s, (k, l, col) in enumerate(ser):
+            v = A[("E4", cond, f"{pre} {k}")][0]
+            bh = h * v / ymax
+            xx, yy = gx + s * bw, y0 + h - bh
+            o.append(f'<rect x="{xx:.0f}" y="{yy:.0f}" width="{bw - 3:.0f}" height="{bh:.0f}" fill="{col}"/>'
+                     f'<text x="{xx + (bw - 3) / 2:.0f}" y="{yy - 3:.0f}" font-size="10" text-anchor="middle" fill="#333">{v:.1f}</text>')
+        o.append(f'<text x="{x0 + g * gw + gw / 2:.0f}" y="{y0 + h + 16}" font-size="11" text-anchor="middle" fill="#333">{lab}</text>')
+    o.append(legend([(l, c) for _, l, c in ser], 56, 300))
+    fig4 = frame(560, 360, "라벨 없는 기록 200개로 전도도를 고르면 상한과 같은 수준까지 줄어든다", "".join(o))
+    # 그림 5: 전극 위치 오차
+    J = [0, 5, 10, 15]
+    x0, y0, w, h, ymax = 56, 50, 470, 220, 30
+    px = lambda i: x0 + 30 + i * (w - 60) / (len(J) - 1)
+    py = lambda v: y0 + h - h * v / ymax
+    o = [grid(x0, y0, w, h, ymax, 5, "새 머리 6개 평균 위치 오차 mm")]
+    for i, j in enumerate(J):
+        o.append(f'<text x="{px(i):.0f}" y="{y0 + h + 16}" font-size="11" text-anchor="middle" fill="#333">{j} mm</text>')
+    E5M = [("sLORETA (자기 머리)", "sLORETA", "#9aa0a6"), ("MLP 센서만", "MLP 센서만", "#e08a1e"), ("어댑터 (자기 머리)", "어댑터 (자기 머리)", "#2b6cb0")]
+    for k, l, c in E5M:
+        pts = [(px(i), py(A[("E5", f"전극 오차 {j} mm", k)][0])) for i, j in enumerate(J)]
+        o.append(f'<polyline points="{" ".join(f"{a:.0f},{b:.0f}" for a, b in pts)}" fill="none" stroke="{c}" stroke-width="2.2"/>')
+        o.append("".join(f'<circle cx="{a:.0f}" cy="{b:.0f}" r="3.2" fill="{c}"/>' for a, b in pts))
+    o.append(f'<text x="{x0 + w / 2:.0f}" y="{y0 + h + 32}" font-size="10" text-anchor="middle" fill="#555">전극 위치 오차 (표준편차, 축마다)</text>')
+    o.append(legend([(l, c) for _, l, c in E5M], 56, 318))
+    fig5 = frame(560, 375, "전극 위치가 틀리면 sLORETA는 크게 무너지고 학습 모델은 완만하다", "".join(o))
+    for name, svg in (("fig_adapt", fig4), ("fig_jitter", fig5)):
+        with open(os.path.join(HERE, f"{name}.svg"), "w", encoding="utf-8") as f:
+            f.write(svg)
+        print(name, len(svg.encode()))
