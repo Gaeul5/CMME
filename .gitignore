@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 .DS_Store
 *.fif
+week05/cache_heads/
+week05/cache_heads_strong/
+week05/heads_oasis/
+*.npz
