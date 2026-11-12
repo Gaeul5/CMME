@@ -179,6 +179,10 @@ FEATS = {
     "어댑터 (기준 머리 리드필드)": lambda Y, h, sel: unit(pick_ref(Y, sel) @ projector(0, sel).T),
     "어댑터 (자기 머리 리드필드)": lambda Y, h, sel: unit(pick_ref(Y, sel) @ projector(h, sel).T),
 }
+# 11/10 미팅: 어댑터에 이미 그 머리의 리드필드가 들어가므로 머리 요약 벡터는 중복 → 기본으로 뺌.
+# week05 결과(26~39 mm)를 다시 재현할 때만 HEADVEC=1
+if os.environ.get("HEADVEC") != "1":
+    del FEATS["MLP 센서 + 머리 벡터"]
 
 
 def build_inputs(head_ids, n, montage_list, feats):
