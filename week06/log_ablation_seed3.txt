@@ -1,0 +1,13 @@
+A 자기 머리 리드필드 학습 21 s
+B 템플릿 머리 리드필드 학습 22 s
+C 무작위 가짜 리드필드 학습 37 s
+D 마스크 (변환 없음) 학습 31 s
+ [표준 64채널] A:10.3  B:10.4  C:11.2  D:12.8  A1:11.8  A2:61.0  A3:58.1  sLORETA:14.1  sLORETA:17.2  sLORETA:65.0  sLORETA:84.8
+ [표준 32채널] A:12.8  B:13.0  C:18.8  D:23.9  A1:13.7  A2:60.0  A3:59.5  sLORETA:16.8  sLORETA:18.9  sLORETA:64.1  sLORETA:83.9
+ [표준 16채널] A:18.2  B:18.4  C:25.2  D:31.7  A1:18.8  A2:59.3  A3:62.0  sLORETA:21.3  sLORETA:22.7  sLORETA:62.5  sLORETA:83.7
+ [처음 보는 배치 32채널 #1] A:14.1  B:14.3  C:20.1  D:22.1  A1:15.0  A2:61.6  A3:59.5  sLORETA:18.3  sLORETA:20.6  sLORETA:66.2  sLORETA:81.4
+ [처음 보는 배치 32채널 #2] A:13.1  B:13.4  C:21.9  D:22.1  A1:14.1  A2:59.5  A3:59.0  sLORETA:17.3  sLORETA:19.6  sLORETA:64.5  sLORETA:82.0
+ [처음 보는 배치 16채널 #1] A:21.6  B:21.6  C:37.4  D:35.9  A1:22.2  A2:58.4  A3:63.6  sLORETA:26.9  sLORETA:27.6  sLORETA:63.1  sLORETA:84.9
+ [처음 보는 배치 16채널 #2] A:20.9  B:21.0  C:30.7  D:40.1  A1:21.9  A2:58.3  A3:62.3  sLORETA:25.7  sLORETA:27.9  sLORETA:65.2  sLORETA:82.9
+전체 474 s
+저장: /home/claude/CMME/week06/ablation_seed3.csv
