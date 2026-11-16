@@ -1,0 +1,14 @@
+학습 머리 ['OAS30001', 'OAS30003', 'OAS30005', 'OAS30007', 'OAS30009', 'OAS30010'] 평가 머리 ['OAS30004', 'OAS30006', 'OAS30008', 'OAS30011']
+A 자기 머리 리드필드 학습 26 s
+B 템플릿 머리 리드필드 학습 33 s
+C 무작위 가짜 리드필드 학습 35 s
+D 마스크 (변환 없음) 학습 31 s
+ [표준 64채널] A:10.0  B:10.1  C:10.9  D:11.5  A1:11.7  A2:54.7  A3:54.2  sLORETA:14.7  sLORETA:16.2  sLORETA:59.7  sLORETA:83.6
+ [표준 32채널] A:12.4  B:12.4  C:17.6  D:19.4  A1:13.6  A2:56.4  A3:55.6  sLORETA:16.9  sLORETA:17.5  sLORETA:61.5  sLORETA:80.8
+ [표준 16채널] A:17.4  B:17.4  C:22.3  D:28.8  A1:18.0  A2:56.8  A3:55.7  sLORETA:21.1  sLORETA:22.2  sLORETA:60.4  sLORETA:76.1
+ [처음 보는 배치 32채널 #1] A:13.1  B:13.3  C:22.1  D:20.7  A1:14.2  A2:54.4  A3:54.9  sLORETA:17.9  sLORETA:18.9  sLORETA:59.8  sLORETA:76.4
+ [처음 보는 배치 32채널 #2] A:14.3  B:14.6  C:21.2  D:23.9  A1:15.1  A2:54.6  A3:55.9  sLORETA:19.8  sLORETA:20.2  sLORETA:60.5  sLORETA:79.4
+ [처음 보는 배치 16채널 #1] A:20.9  B:21.5  C:32.3  D:33.0  A1:21.5  A2:52.9  A3:56.6  sLORETA:28.4  sLORETA:29.3  sLORETA:61.0  sLORETA:82.0
+ [처음 보는 배치 16채널 #2] A:20.8  B:20.7  C:29.9  D:31.0  A1:21.3  A2:54.3  A3:59.9  sLORETA:26.6  sLORETA:26.7  sLORETA:60.8  sLORETA:77.1
+전체 498 s
+저장: /home/claude/CMME/week06/oasis_ablation_seed3.csv
