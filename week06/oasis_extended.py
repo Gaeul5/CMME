@@ -26,6 +26,10 @@ ConvDip, DeepSIF, 3D-PIUNet은 넓게 퍼진 신호원 여러 개의 '피질 지
   - AUC: 정점마다 '켜졌나'를 지도 값으로 얼마나 잘 가르는지 (1이면 완벽, 0.5면 무작위)
   - 놓친 비율: 정답 중심 20 mm 안에 봉우리가 없는 신호원의 비율
 
+추가 (Week 7-4): 쌍극자 스캔을 비교 기준에 넣음. SCAN_ONLY=1이면 학습을 건너뛰고 sLORETA와 쌍극자 스캔만 평가해
+  week07/scan_*.csv에 저장한다 (난수 흐름이 같아서 평가 샘플이 원래 실행과 똑같다. sLORETA 값이 같은지로 확인).
+  넓은 신호원은 방향이 피질에 수직이므로 여기서는 수직 방향 리드필드 하나로 스캔한다.
+
 실행: SEED=0 python week06/extended_sources.py
 """
 import csv
@@ -44,6 +48,7 @@ from sklearn.metrics import roc_auc_score
 warnings.filterwarnings("ignore")
 SEED = int(os.environ.get("SEED", 0))
 QUICK = os.environ.get("QUICK") == "1"
+SCAN_ONLY = os.environ.get("SCAN_ONLY") == "1"
 rng = np.random.default_rng(2000 + SEED)
 torch.manual_seed(SEED)
 torch.set_num_threads(os.cpu_count())
@@ -227,7 +232,7 @@ def train(Xn):
 models = {}
 for k in FEATS:
     t2 = time.time()
-    models[k] = train(X[k])
+    models[k] = None if SCAN_ONLY else train(X[k])
     print(f"{k} 학습 {time.time() - t2:.0f} s", flush=True)
 del X, T
 
@@ -254,7 +259,10 @@ def evaluate(cond, sel):
         K_mne, K_slor = kernels(heads[h]["Gm"], sel)
         Xr = pick_ref(Y, sel)
         maps_ = {"MNE (자기 머리)": np.abs(Xr @ K_mne.T), "sLORETA (자기 머리)": np.abs(Xr @ K_slor.T)}
-        for k, f in FEATS.items():
+        Ln = heads[h]["Gm"][sel]
+        Ln = Ln - Ln.mean(0, keepdims=True)
+        maps_["쌍극자 스캔 (자기 머리)"] = np.abs(Xr @ (Ln / np.linalg.norm(Ln, axis=0, keepdims=True)))
+        for k, f in ({} if SCAN_ONLY else FEATS).items():
             with torch.no_grad():
                 m_ = models[k]
                 p = torch.sigmoid(m_((torch.from_numpy(f(Y, h, sel, K_slor).astype(np.float32)) - m_.mu) / m_.sd)).numpy()
@@ -291,13 +299,15 @@ for cond, sel in EVAL.items():
     evaluate(cond, sel)
     r = [x for x in rows if x[1] == cond and x[4] == "전체"]
     print(f" [{cond}]", flush=True)
-    for k in ["MNE (자기 머리)", "sLORETA (자기 머리)"] + list(FEATS):
+    for k in ["MNE (자기 머리)", "sLORETA (자기 머리)", "쌍극자 스캔 (자기 머리)"] + ([] if SCAN_ONLY else list(FEATS)):
         rr = [x for x in r if x[2] == k]
         print(f"   {k:<20} 위치 오차 {np.mean([x[5] for x in rr]):5.1f} mm  AUC {np.mean([x[6] for x in rr]):.3f}  "
               f"놓침 {np.mean([x[7] for x in rr]):4.1f}%", flush=True)
 print(f"평가 {time.time() - t3:.0f} s, 전체 {time.time() - t0:.0f} s")
 
 out = os.path.join(HERE, f"oasis_extended_seed{SEED}{'_quick' if QUICK else ''}.csv")
+if SCAN_ONLY:
+    out = os.path.join(HERE, "..", "week07", f"scan_extended_seed{SEED}{'_quick' if QUICK else ''}.csv")
 with open(out, "w", encoding="utf-8-sig", newline="") as f:
     w = csv.writer(f)
     w.writerow(["시드", "조건", "방법", "머리", "신호원수", "위치오차mm", "AUC", "놓침%"])

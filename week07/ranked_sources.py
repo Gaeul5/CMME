@@ -24,6 +24,11 @@
 지표: 찾은 위치와 정답을 짝지은 거리(mm), 20 mm 안에 못 찾은 비율, 첫 번째로 찾은 것이 가장 센 신호원인 비율,
       순위별(가장 센 것, 둘째, 셋째) 오차. 오차 분포(히스토그램)도 저장
 
+추가 (Week 7-4): 학습 없는 기준 두 개. SCAN_ONLY=1이면 학습을 건너뛰고 학습 없는 방법만 평가해 scan_ranked_*.csv에 저장
+  쌍극자 스캔 순차 제거 : 가장 두드러진 무늬 하나를 가장 잘 설명하는 위치(GOF 최대)를 고르고 지움
+  MUSIC 순차 제거       : 남은 신호원 수만큼의 무늬(SVD 성분)가 만드는 공간과 가장 잘 겹치는 위치를 고르고 지움
+                          (RAP-MUSIC과 같은 생각이지만 리드필드 쪽은 다시 투영하지 않고 기록 쪽만 지우는 단순한 형태)
+
 실행: SEED=0 python week07/ranked_sources.py
 """
 import csv
@@ -40,6 +45,7 @@ from sklearn.neural_network import MLPRegressor
 warnings.filterwarnings("ignore")
 SEED = int(os.environ.get("SEED", 0))
 QUICK = os.environ.get("QUICK") == "1"
+SCAN_ONLY = os.environ.get("SCAN_ONLY") == "1"
 rng = np.random.default_rng(9000 + SEED)
 HERE = os.path.dirname(os.path.abspath(__file__))
 W6 = os.path.join(HERE, "..", "week06")
@@ -169,11 +175,24 @@ def train_data(deflate):
 
 
 pool = [random_montage() for _ in range(60 if QUICK else 200)]
+def fit(X, I):
+    return None if SCAN_ONLY else MLPRegressor(**MLP_KW).fit(X, pos0[I] / 100.0)
+
+
+def eigmax3(S):
+    """대칭 3x3 행렬 묶음 (..., 3, 3)의 가장 큰 고윳값 (닫힌 식)"""
+    q = np.trace(S, axis1=-2, axis2=-1) / 3.0
+    Bm = S - q[..., None, None] * np.eye(3)
+    p = np.sqrt(np.maximum((Bm**2).sum((-2, -1)) / 6.0, 1e-30))
+    r = np.clip(np.linalg.det(Bm) / (2.0 * p**3), -1.0, 1.0)
+    return q + 2.0 * p * np.cos(np.arccos(r) / 3.0)
+
+
 Xa, Xm, I = train_data(False)
-m_plain = MLPRegressor(**MLP_KW).fit(Xa, pos0[I] / 100.0)
+m_plain = fit(Xa, I)
 Xa, Xm, I = train_data(True)
-m_defl = MLPRegressor(**MLP_KW).fit(Xa, pos0[I] / 100.0)
-m_mask = MLPRegressor(**MLP_KW).fit(Xm, pos0[I] / 100.0)
+m_defl = fit(Xa, I)
+m_mask = fit(Xm, I)
 del Xa, Xm
 print(f"학습 {time.time() - t0:.0f} s", flush=True)
 LEARNED = {"어댑터 순차 제거 (일반 학습)": (m_plain, feat_adapter), "어댑터 순차 제거 (제거 학습)": (m_defl, feat_adapter),
@@ -246,6 +265,7 @@ for cond, sel in EVAL.items():
     for h in TEST_HEADS:
         G = heads[h]["Gm"]
         Ks = slor_kernel(G, sel)
+        Q2 = np.transpose(qbasis(G, sel, np.arange(N_SRC)), (0, 2, 1)).reshape(-1, len(sel))     # (source*3, k)
         for K in (1, 2, 3):
             Y, truth = make_events(h, K)
             R0 = ref_(Y[:, :, sel])
@@ -254,14 +274,20 @@ for cond, sel in EVAL.items():
             M = np.abs(R0[np.arange(N_TE), tmax] @ Ks.T)
             score(cond, "한 시점, sLORETA 봉우리", h, K, np.array([peaks(M[i], heads[h]["pos"], K) for i in range(N_TE)]), truth)
             # 순차 제거
-            methods = {"sLORETA 순차 제거": None, **LEARNED}
+            methods = {"sLORETA 순차 제거": None, "쌍극자 스캔 순차 제거": "scan", "MUSIC 순차 제거": "music", **({} if SCAN_ONLY else LEARNED)}
             for name, ml in methods.items():
                 R = R0.copy()
                 found = np.zeros((N_TE, K), int)
                 for r in range(K):
-                    u = np.linalg.svd(R, full_matrices=False)[2][:, 0, :]            # (n, k) 가장 두드러진 무늬
+                    Vh = np.linalg.svd(R, full_matrices=False)[2]
+                    u = Vh[:, 0, :]                                                  # (n, k) 가장 두드러진 무늬
                     if ml is None:
                         v = np.abs(u @ Ks.T).argmax(1)
+                    elif ml == "scan":
+                        v = ((u @ Q2.T) ** 2).reshape(N_TE, -1, 3).sum(2).argmax(1)
+                    elif ml == "music":
+                        C = np.einsum("nmk,vk->nvm", Vh[:, :K - r, :], Q2).reshape(N_TE, N_SRC, 3, K - r)
+                        v = eigmax3(C @ np.swapaxes(C, -1, -2)).argmax(1)
                     else:
                         v = tree0.query(ml[0].predict(ml[1](u, h, sel, Ks)) * 100.0)[1]
                     found[:, r] = v
@@ -273,12 +299,13 @@ for cond, sel in EVAL.items():
 print(f"평가 {time.time() - t1:.0f} s, 전체 {time.time() - t0:.0f} s")
 
 tag = f"seed{SEED}{'_quick' if QUICK else ''}"
-with open(os.path.join(HERE, f"ranked_{tag}.csv"), "w", encoding="utf-8-sig", newline="") as f:
+PRE = "scan_ranked" if SCAN_ONLY else "ranked"
+with open(os.path.join(HERE, f"{PRE}_{tag}.csv"), "w", encoding="utf-8-sig", newline="") as f:
     w = csv.writer(f)
     w.writerow(["시드", "배치", "방법", "머리", "신호원수", "평균mm", "놓침%", "첫번째가가장센것%", "순위1mm", "순위2mm", "순위3mm"])
     for r in rows:
         w.writerow(list(r[:5]) + [f"{x:.2f}" for x in r[5:]])
-with open(os.path.join(HERE, f"ranked_hist_{tag}.csv"), "w", encoding="utf-8-sig", newline="") as f:
+with open(os.path.join(HERE, f"{PRE}_hist_{tag}.csv"), "w", encoding="utf-8-sig", newline="") as f:
     w = csv.writer(f)
     w.writerow(["배치", "방법", "신호원수"] + [f"{b}" for b in BINS[:-1]])
     for (c, m, K), v in hist.items():

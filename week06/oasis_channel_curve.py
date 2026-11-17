@@ -21,6 +21,9 @@ Week 6-2: 모델 하나로 채널 수 4~64개, 처음 보는 배치, 처음 보�
 
 한계: 머리는 sample 변형 머리(진짜 다른 사람 아님), 신호원은 쌍극자 1개, 표준 배치는 biosemi 64 안의 부분집합.
 
+추가 (Week 7-4): 쌍극자 스캔을 비교 기준에 넣음. SCAN_ONLY=1이면 학습을 건너뛰고 sLORETA와 쌍극자 스캔만 평가해
+  week07/scan_*.csv에 저장한다 (난수 흐름이 같아서 평가 샘플이 원래 실행과 똑같다. sLORETA 값이 같은지로 확인).
+
 실행: SEED=0 python week06/channel_curve.py     (week05/cache_heads/head000~017.npz 필요)
 """
 import csv
@@ -36,6 +39,7 @@ from sklearn.neural_network import MLPRegressor
 warnings.filterwarnings("ignore")
 SEED = int(os.environ.get("SEED", 0))
 QUICK = os.environ.get("QUICK") == "1"
+SCAN_ONLY = os.environ.get("SCAN_ONLY") == "1"
 rng = np.random.default_rng(1000 + SEED)
 HERE = os.path.dirname(os.path.abspath(__file__))
 N_TR = 6000 if QUICK else 30000
@@ -146,7 +150,15 @@ def build(head_ids, n, montages, feats):
 
 
 def fit(X, I):
-    return MLPRegressor(**MLP_KW).fit(X, pos0[I] / 100.0)
+    return None if SCAN_ONLY else MLPRegressor(**MLP_KW).fit(X, pos0[I] / 100.0)
+
+
+def scan(G3, sel, Yr):
+    """쌍극자 스캔: 위치마다 3방향 리드필드로 신호를 얼마나 설명하는지(GOF) 보고 가장 큰 곳을 고름. 학습 없음"""
+    A = np.transpose(G3[sel], (1, 0, 2))
+    Q = np.linalg.qr(A - A.mean(1, keepdims=True))[0]                     # (source, k, 3)
+    Q2 = np.transpose(Q, (0, 2, 1)).reshape(-1, len(sel))
+    return ((Yr @ Q2.T) ** 2).reshape(len(Yr), -1, 3).sum(2).argmax(1)
 
 
 # 범용 모델 2개
@@ -178,8 +190,9 @@ def evaluate(exp, cond, sel, models):
     for h in TEST_HEADS:
         Y, it = simulate(heads[h]["Gt"], N_TE, TEST_TILT)
         K = slor_kernel(heads[h]["Gm"], sel)
-        res = {"sLORETA (자기 머리)": np.abs(pick_ref(Y, sel) @ K.T).argmax(1)}
-        for k, (m, f) in models.items():
+        res = {"sLORETA (자기 머리)": np.abs(pick_ref(Y, sel) @ K.T).argmax(1),
+               "쌍극자 스캔 (자기 머리)": scan(heads[h]["Gm"], sel, pick_ref(Y, sel))}
+        for k, (m, f) in ({} if SCAN_ONLY else models).items():
             res[k] = tree0.query(m.predict(f(Y, h, sel, K)) * 100.0)[1]
         for k, j in res.items():
             e = np.linalg.norm(heads[h]["pos"][j] - heads[h]["pos"][it], axis=1)
@@ -197,7 +210,7 @@ for c in COUNTS:
     for j, sel in enumerate(mont):
         evaluate("E6a", f"{c}채널", sel, um)
     r = [x for x in rows if x[1] == "E6a" and x[2] == f"{c}채널"]
-    print(f" {c:>2}채널: " + "  ".join(f"{k} {np.mean([x[6] for x in r if x[3] == k]):5.1f}" for k in ["sLORETA (자기 머리)"] + list(UNI)), flush=True)
+    print(f" {c:>2}채널: " + "  ".join(f"{k} {np.mean([x[6] for x in r if x[3] == k]):5.1f}" for k in ["sLORETA (자기 머리)", "쌍극자 스캔 (자기 머리)"] + ([] if SCAN_ONLY else list(UNI))), flush=True)
 for name, sel in NAMED.items():
     evaluate("E6b", name, sel, dict(um, **{"채널 수별 전용 모델": (ded[name], feat_sensor)}))
     r = [x for x in rows if x[1] == "E6b" and x[2] == name]
@@ -205,6 +218,8 @@ for name, sel in NAMED.items():
 print(f"평가 {time.time() - t2:.0f} s, 전체 {time.time() - t0:.0f} s")
 
 out = os.path.join(HERE, f"oasis_curve_seed{SEED}{'_quick' if QUICK else ''}.csv")
+if SCAN_ONLY:
+    out = os.path.join(HERE, "..", "week07", f"scan_curve_seed{SEED}{'_quick' if QUICK else ''}.csv")
 with open(out, "w", encoding="utf-8-sig", newline="") as f:
     w = csv.writer(f)
     w.writerow(["시드", "실험", "조건", "방법", "머리", "채널수", "평균mm", "중앙값mm", "10mm이내%"])
