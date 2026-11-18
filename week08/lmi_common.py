@@ -39,8 +39,11 @@ def contacts_xyz(root, sub):
 
 
 def scalp_xyz(root, sub):
-    t = pd.read_csv(os.path.join(root, f"derivatives/epochs/{sub}/eeg/{sub}_task-seegstim_electrodes.tsv"), sep="\t")
-    return list(t["name"]), t[["x", "y", "z"]].values.astype(float)
+    """두피 전극 위치 (머리 좌표 = T1w, m).
+    주의: 내려받은 데이터의 sub-XX_task-seegstim_electrodes.tsv 7개는 모두 sub-01 것과 같은 파일이다 (md5 일치).
+    그래서 피험자마다 순방향 모델(fwd) 안에 저장된 전극 위치를 쓴다 (sub-01은 두 값이 0.01 mm 안에서 같음)."""
+    fwd = mne.read_forward_solution(os.path.join(root, f"derivatives/sourcemodelling/{sub}/fwd/{sub}_fwd.fif"))
+    return list(fwd["info"]["ch_names"]), np.array([c["loc"][:3] for c in fwd["info"]["chs"]])
 
 
 def load_fwd(root, sub):

@@ -145,6 +145,8 @@ def feats(h, Y, sel):
 
 
 RUNS = C.runs(root)
+ADAPT = {s: np.load(os.path.join(HERE, "cache_lmi", f"adapt_{s}.npz")) for s in SUBS if os.path.exists(os.path.join(HERE, "cache_lmi", f"adapt_{s}.npz"))}
+print("머리 모델 적응 결과가 있는 피험자:", sorted(ADAPT), flush=True)
 CX = {s: C.contacts_xyz(root, s) for s in SUBS}
 rows = []
 ONE = os.environ.get("ONE")
@@ -188,6 +190,13 @@ for test in ([ONE] if ONE else SUBS):
         mid = (CX[test][r["contacts"][0]] + CX[test][r["contacts"][1]]) / 2 * 1000
         ests = {"합친 방법: 범용 어댑터 + 실제 머리 모델": v_hy, "쌍극자 스캔 (데이터 머리 모델)": scan_idx(u, h["G"][sel]),
                 "sLORETA 법선 (데이터 머리 모델)": int(np.abs(Ks @ u).argmax())}
+        # 8-4 머리 모델 적응 결과가 있으면: 같은 학습 모델에 적응한 리드필드만 바꿔 넣음 (다시 학습하지 않음)
+        for tag, key in (("전도도 적응", "G_cond"), ("전도도·전극 적응", "G_final"), ("정답으로 고른 전도도(상한)", "G_oracle")):
+            if test in ADAPT:
+                ha = dict(h, G=ADAPT[test][key].astype(np.float64))
+                pr = m.predict(feats(ha, Yfull, sel)) * 100.0
+                ests[f"합친 방법 + {tag}"] = h["tree_own"].query(apply_inv(h["A"], pr))[1][0]
+                ests[f"쌍극자 스캔 + {tag}"] = scan_idx(u, ha["G"][sel])
         for k, v in ests.items():
             rows.append([SEED, test, r["run"], "-".join(r["contacts"]), r["mA"], k, f"{np.linalg.norm(h['pos'][v] - mid):.2f}"])
     rr = [x for x in rows if x[1] == test]
