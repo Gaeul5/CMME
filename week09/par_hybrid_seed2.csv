@@ -1,0 +1,2585 @@
+﻿시드,피험자,run,세기,펄스,각도,회백질백질,LocalizeMI같은환자,구간,방법,오차mm
+2,sub-01,01,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,35.12
+2,sub-01,01,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,40.25
+2,sub-01,01,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,23.20
+2,sub-01,01,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,23.20
+2,sub-01,01,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,18.42
+2,sub-01,01,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,22.45
+2,sub-01,01,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,18.42
+2,sub-01,01,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,26.02
+2,sub-01,02,5ma,0.3ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,75.13
+2,sub-01,02,5ma,0.3ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,83.76
+2,sub-01,02,5ma,0.3ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,22.17
+2,sub-01,02,5ma,0.3ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.11
+2,sub-01,02,5ma,0.3ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,14.91
+2,sub-01,02,5ma,0.3ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,16.24
+2,sub-01,02,5ma,0.3ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,14.91
+2,sub-01,02,5ma,0.3ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,13.20
+2,sub-01,03,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,13.10
+2,sub-01,03,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,16.24
+2,sub-01,03,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,9.52
+2,sub-01,03,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,14.32
+2,sub-01,03,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,9.40
+2,sub-01,03,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,14.91
+2,sub-01,03,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,9.59
+2,sub-01,03,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,9.59
+2,sub-01,04,5ma,0.3ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,67.82
+2,sub-01,04,5ma,0.3ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,70.15
+2,sub-01,04,5ma,0.3ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,33.98
+2,sub-01,04,5ma,0.3ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,38.54
+2,sub-01,04,5ma,0.3ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,31.47
+2,sub-01,04,5ma,0.3ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,31.42
+2,sub-01,04,5ma,0.3ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,22.80
+2,sub-01,04,5ma,0.3ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,22.93
+2,sub-01,05,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,16.65
+2,sub-01,05,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,19.64
+2,sub-01,05,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,17.57
+2,sub-01,05,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,15.70
+2,sub-01,05,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,19.54
+2,sub-01,05,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,19.54
+2,sub-01,05,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,21.44
+2,sub-01,05,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,21.44
+2,sub-01,06,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,55.49
+2,sub-01,06,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,55.63
+2,sub-01,06,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,19.58
+2,sub-01,06,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.04
+2,sub-01,06,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,19.04
+2,sub-01,06,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,13.79
+2,sub-01,06,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,13.88
+2,sub-01,06,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,13.79
+2,sub-01,07,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,32.82
+2,sub-01,07,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,36.88
+2,sub-01,07,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,18.22
+2,sub-01,07,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,25.80
+2,sub-01,07,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,14.95
+2,sub-01,07,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,23.90
+2,sub-01,07,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,18.42
+2,sub-01,07,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,24.49
+2,sub-02,01,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,12.41
+2,sub-02,01,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,9.04
+2,sub-02,01,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,14.93
+2,sub-02,01,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,12.32
+2,sub-02,01,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,14.93
+2,sub-02,01,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,12.32
+2,sub-02,01,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,50.25
+2,sub-02,01,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,51.45
+2,sub-02,02,1ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,57.20
+2,sub-02,02,1ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,57.20
+2,sub-02,02,1ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,50.12
+2,sub-02,02,1ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,45.16
+2,sub-02,02,1ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,48.53
+2,sub-02,02,1ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,32.58
+2,sub-02,02,1ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,50.12
+2,sub-02,02,1ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,43.16
+2,sub-02,03,3ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,57.27
+2,sub-02,03,3ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,77.60
+2,sub-02,03,3ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,67.33
+2,sub-02,03,3ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,97.80
+2,sub-02,03,3ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,20.18
+2,sub-02,03,3ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,16.43
+2,sub-02,03,3ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,58.76
+2,sub-02,03,3ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,58.76
+2,sub-02,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,49.78
+2,sub-02,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,53.07
+2,sub-02,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,28.41
+2,sub-02,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,23.06
+2,sub-02,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,25.09
+2,sub-02,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,21.54
+2,sub-02,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,37.72
+2,sub-02,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,29.80
+2,sub-02,05,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,52.93
+2,sub-02,05,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,52.93
+2,sub-02,05,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,36.51
+2,sub-02,05,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,34.96
+2,sub-02,05,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,25.49
+2,sub-02,05,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,25.49
+2,sub-02,05,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,30.22
+2,sub-02,05,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,26.95
+2,sub-02,06,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,20.40
+2,sub-02,06,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,15.12
+2,sub-02,06,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,21.11
+2,sub-02,06,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.23
+2,sub-02,06,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,16.65
+2,sub-02,06,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,16.65
+2,sub-02,06,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,24.49
+2,sub-02,06,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,21.33
+2,sub-02,07,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,54.69
+2,sub-02,07,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,54.69
+2,sub-02,07,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,32.46
+2,sub-02,07,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,17.08
+2,sub-02,07,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,35.74
+2,sub-02,07,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,17.08
+2,sub-02,07,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,51.27
+2,sub-02,07,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,51.13
+2,sub-02,08,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,51.45
+2,sub-02,08,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,59.00
+2,sub-02,08,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,25.78
+2,sub-02,08,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,18.62
+2,sub-02,08,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,24.78
+2,sub-02,08,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,20.68
+2,sub-02,08,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,51.00
+2,sub-02,08,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,54.01
+2,sub-02,09,3ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,58.72
+2,sub-02,09,3ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,59.77
+2,sub-02,09,3ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,32.05
+2,sub-02,09,3ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,22.68
+2,sub-02,09,3ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,25.32
+2,sub-02,09,3ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,23.04
+2,sub-02,09,3ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,43.99
+2,sub-02,09,3ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,48.60
+2,sub-02,10,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,32.27
+2,sub-02,10,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,49.94
+2,sub-02,10,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,52.40
+2,sub-02,10,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,51.62
+2,sub-02,10,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,38.23
+2,sub-02,10,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,37.20
+2,sub-02,10,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,33.99
+2,sub-02,10,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,33.99
+2,sub-02,11,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,25.76
+2,sub-02,11,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,27.74
+2,sub-02,11,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,15.72
+2,sub-02,11,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,15.72
+2,sub-02,11,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,19.31
+2,sub-02,11,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,19.31
+2,sub-02,11,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,31.98
+2,sub-02,11,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,35.89
+2,sub-02,12,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,7.76
+2,sub-02,12,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,7.76
+2,sub-02,12,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,8.58
+2,sub-02,12,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,5.96
+2,sub-02,12,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,15.30
+2,sub-02,12,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,8.87
+2,sub-02,12,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,15.30
+2,sub-02,12,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,16.63
+2,sub-02,13,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,56.20
+2,sub-02,13,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,56.20
+2,sub-02,13,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,40.64
+2,sub-02,13,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,45.19
+2,sub-02,13,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,34.97
+2,sub-02,13,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,31.91
+2,sub-02,13,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,17.56
+2,sub-02,13,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,13.22
+2,sub-03,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,17.86
+2,sub-03,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,17.86
+2,sub-03,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,29.63
+2,sub-03,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,30.05
+2,sub-03,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,13.51
+2,sub-03,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,15.78
+2,sub-03,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,12.58
+2,sub-03,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,9.52
+2,sub-03,02,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,17.47
+2,sub-03,02,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,17.47
+2,sub-03,02,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,47.89
+2,sub-03,02,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,41.64
+2,sub-03,02,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,11.78
+2,sub-03,02,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,12.31
+2,sub-03,02,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,10.24
+2,sub-03,02,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,10.24
+2,sub-03,03,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,32.01
+2,sub-03,03,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,34.37
+2,sub-03,03,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,35.90
+2,sub-03,03,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,41.92
+2,sub-03,03,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,17.35
+2,sub-03,03,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,20.57
+2,sub-03,03,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,26.33
+2,sub-03,03,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,32.01
+2,sub-03,04,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,75.46
+2,sub-03,04,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,81.02
+2,sub-03,04,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,13.46
+2,sub-03,04,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.35
+2,sub-03,04,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,10.88
+2,sub-03,04,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,16.03
+2,sub-03,04,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,13.46
+2,sub-03,04,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,19.35
+2,sub-03,05,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,55.45
+2,sub-03,05,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,55.45
+2,sub-03,05,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,30.77
+2,sub-03,05,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,24.59
+2,sub-03,05,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,20.06
+2,sub-03,05,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,20.63
+2,sub-03,05,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,41.83
+2,sub-03,05,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,41.83
+2,sub-03,06,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,36.66
+2,sub-03,06,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,29.63
+2,sub-03,06,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,27.44
+2,sub-03,06,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,28.23
+2,sub-03,06,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,22.67
+2,sub-03,06,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,17.38
+2,sub-03,06,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,28.60
+2,sub-03,06,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,28.95
+2,sub-03,07,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,26.16
+2,sub-03,07,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,26.16
+2,sub-03,07,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,30.64
+2,sub-03,07,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,30.64
+2,sub-03,07,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,45.48
+2,sub-03,07,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,40.73
+2,sub-03,07,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,17.18
+2,sub-03,07,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,9.65
+2,sub-03,08,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,25.42
+2,sub-03,08,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,27.25
+2,sub-03,08,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,11.20
+2,sub-03,08,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,13.96
+2,sub-03,08,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,7.41
+2,sub-03,08,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,8.68
+2,sub-03,08,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,7.41
+2,sub-03,08,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,8.68
+2,sub-03,09,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,3.56
+2,sub-03,09,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,4.92
+2,sub-03,09,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,3.56
+2,sub-03,09,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,4.92
+2,sub-03,09,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,4.92
+2,sub-03,09,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,6.84
+2,sub-03,09,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,46.39
+2,sub-03,09,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,41.27
+2,sub-04,01,5ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,합친 방법,29.06
+2,sub-04,01,5ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,쌍극자 스캔,29.41
+2,sub-04,01,5ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,합친 방법,14.97
+2,sub-04,01,5ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,쌍극자 스캔,11.87
+2,sub-04,01,5ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,합친 방법,10.40
+2,sub-04,01,5ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,10.40
+2,sub-04,01,5ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,합친 방법,15.13
+2,sub-04,01,5ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,쌍극자 스캔,16.52
+2,sub-04,02,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,25.57
+2,sub-04,02,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,18.83
+2,sub-04,02,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,22.46
+2,sub-04,02,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,22.58
+2,sub-04,02,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,7.68
+2,sub-04,02,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,6.53
+2,sub-04,02,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,3.48
+2,sub-04,02,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,6.53
+2,sub-04,03,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,38.33
+2,sub-04,03,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,41.11
+2,sub-04,03,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,18.69
+2,sub-04,03,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,14.19
+2,sub-04,03,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,17.01
+2,sub-04,03,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,10.07
+2,sub-04,03,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,14.28
+2,sub-04,03,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,10.93
+2,sub-04,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,41.36
+2,sub-04,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,43.37
+2,sub-04,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,9.10
+2,sub-04,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,10.48
+2,sub-04,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,6.49
+2,sub-04,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,4.03
+2,sub-04,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,3.00
+2,sub-04,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.23
+2,sub-04,05,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,37.58
+2,sub-04,05,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,37.58
+2,sub-04,05,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,20.89
+2,sub-04,05,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,20.89
+2,sub-04,05,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,14.91
+2,sub-04,05,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,14.91
+2,sub-04,05,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,11.90
+2,sub-04,05,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,11.90
+2,sub-04,06,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,22.39
+2,sub-04,06,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,30.33
+2,sub-04,06,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,10.20
+2,sub-04,06,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,7.37
+2,sub-04,06,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,7.68
+2,sub-04,06,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,10.60
+2,sub-04,06,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,7.54
+2,sub-04,06,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.34
+2,sub-04,07,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,20.11
+2,sub-04,07,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,16.87
+2,sub-04,07,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,8.32
+2,sub-04,07,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,13.63
+2,sub-04,07,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,8.05
+2,sub-04,07,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,13.16
+2,sub-04,07,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,16.13
+2,sub-04,07,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,16.13
+2,sub-05,01,1ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,63.08
+2,sub-05,01,1ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,72.08
+2,sub-05,01,1ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,56.81
+2,sub-05,01,1ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,69.08
+2,sub-05,01,1ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,59.68
+2,sub-05,01,1ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,59.15
+2,sub-05,01,1ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,31.83
+2,sub-05,01,1ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,33.65
+2,sub-05,02,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,26.12
+2,sub-05,02,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,27.92
+2,sub-05,02,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,37.34
+2,sub-05,02,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,38.55
+2,sub-05,02,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,61.99
+2,sub-05,02,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,61.99
+2,sub-05,02,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,9.49
+2,sub-05,02,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,9.49
+2,sub-05,03,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,55.74
+2,sub-05,03,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,65.58
+2,sub-05,03,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,25.26
+2,sub-05,03,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,26.88
+2,sub-05,03,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,10.59
+2,sub-05,03,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,10.59
+2,sub-05,03,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,10.35
+2,sub-05,03,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.35
+2,sub-05,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,40.31
+2,sub-05,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,40.31
+2,sub-05,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,52.16
+2,sub-05,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,69.89
+2,sub-05,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,32.78
+2,sub-05,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,24.12
+2,sub-05,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,15.48
+2,sub-05,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,17.96
+2,sub-05,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,22.50
+2,sub-05,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,18.08
+2,sub-05,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,23.15
+2,sub-05,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,23.95
+2,sub-05,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,19.11
+2,sub-05,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,17.98
+2,sub-05,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,11.20
+2,sub-05,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,16.92
+2,sub-05,06,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,52.16
+2,sub-05,06,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,68.08
+2,sub-05,06,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,69.14
+2,sub-05,06,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,73.83
+2,sub-05,06,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,35.69
+2,sub-05,06,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,26.42
+2,sub-05,06,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,26.10
+2,sub-05,06,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,26.42
+2,sub-05,07,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,87.91
+2,sub-05,07,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,87.91
+2,sub-05,07,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,27.41
+2,sub-05,07,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,27.41
+2,sub-05,07,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,27.41
+2,sub-05,07,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,27.41
+2,sub-05,07,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,29.26
+2,sub-05,07,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,26.86
+2,sub-05,08,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,9.05
+2,sub-05,08,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,9.05
+2,sub-05,08,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,18.36
+2,sub-05,08,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,11.75
+2,sub-05,08,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,20.39
+2,sub-05,08,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,19.69
+2,sub-05,08,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,20.39
+2,sub-05,08,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,19.69
+2,sub-05,09,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,37.89
+2,sub-05,09,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,51.38
+2,sub-05,09,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,24.17
+2,sub-05,09,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,26.38
+2,sub-05,09,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,19.81
+2,sub-05,09,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,21.43
+2,sub-05,09,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,19.81
+2,sub-05,09,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,21.23
+2,sub-07,01,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,30.83
+2,sub-07,01,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,4.45
+2,sub-07,01,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,8.54
+2,sub-07,01,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,4.45
+2,sub-07,01,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,4.45
+2,sub-07,01,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,4.45
+2,sub-07,01,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,8.54
+2,sub-07,01,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,11.55
+2,sub-07,02,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,78.18
+2,sub-07,02,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,83.74
+2,sub-07,02,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,34.59
+2,sub-07,02,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,28.80
+2,sub-07,02,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,23.78
+2,sub-07,02,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,21.65
+2,sub-07,02,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,7.27
+2,sub-07,02,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,13.07
+2,sub-07,03,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,23.01
+2,sub-07,03,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,22.69
+2,sub-07,03,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,23.01
+2,sub-07,03,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,22.69
+2,sub-07,03,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,18.42
+2,sub-07,03,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,13.37
+2,sub-07,03,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,16.70
+2,sub-07,03,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,11.83
+2,sub-07,04,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,17.34
+2,sub-07,04,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,14.65
+2,sub-07,04,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,16.41
+2,sub-07,04,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,16.41
+2,sub-07,04,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,19.02
+2,sub-07,04,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,19.02
+2,sub-07,04,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,19.02
+2,sub-07,04,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,19.02
+2,sub-07,05,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,39.13
+2,sub-07,05,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,47.26
+2,sub-07,05,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,16.07
+2,sub-07,05,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,17.45
+2,sub-07,05,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,17.70
+2,sub-07,05,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,21.50
+2,sub-07,05,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,16.07
+2,sub-07,05,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,19.17
+2,sub-07,06,5ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,합친 방법,10.69
+2,sub-07,06,5ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,쌍극자 스캔,2.55
+2,sub-07,06,5ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,합친 방법,25.21
+2,sub-07,06,5ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,쌍극자 스캔,24.25
+2,sub-07,06,5ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,합친 방법,23.21
+2,sub-07,06,5ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,22.18
+2,sub-07,06,5ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,합친 방법,22.18
+2,sub-07,06,5ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,쌍극자 스캔,23.21
+2,sub-07,07,1ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,30.64
+2,sub-07,07,1ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,29.72
+2,sub-07,07,1ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,26.64
+2,sub-07,07,1ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,29.72
+2,sub-07,07,1ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,20.92
+2,sub-07,07,1ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,24.00
+2,sub-07,07,1ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,18.55
+2,sub-07,07,1ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,18.55
+2,sub-07,08,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,28.38
+2,sub-07,08,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,26.45
+2,sub-07,08,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,24.00
+2,sub-07,08,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,24.00
+2,sub-07,08,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,24.00
+2,sub-07,08,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,24.00
+2,sub-07,08,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,28.73
+2,sub-07,08,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,25.13
+2,sub-07,09,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,22.06
+2,sub-07,09,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,25.44
+2,sub-07,09,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,20.73
+2,sub-07,09,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,25.12
+2,sub-07,09,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,24.00
+2,sub-07,09,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,19.42
+2,sub-07,09,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,25.30
+2,sub-07,09,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,21.01
+2,sub-07,10,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,60.55
+2,sub-07,10,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,56.60
+2,sub-07,10,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,31.84
+2,sub-07,10,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,22.23
+2,sub-07,10,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,20.74
+2,sub-07,10,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,20.74
+2,sub-07,10,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,31.17
+2,sub-07,10,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,26.57
+2,sub-10,01,5ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,합친 방법,25.86
+2,sub-10,01,5ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,21.39
+2,sub-10,01,5ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,합친 방법,27.97
+2,sub-10,01,5ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,쌍극자 스캔,20.09
+2,sub-10,01,5ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,합친 방법,20.09
+2,sub-10,01,5ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,17.41
+2,sub-10,01,5ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,합친 방법,17.41
+2,sub-10,01,5ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,쌍극자 스캔,17.41
+2,sub-10,02,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,합친 방법,41.64
+2,sub-10,02,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,44.73
+2,sub-10,02,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,합친 방법,23.66
+2,sub-10,02,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,쌍극자 스캔,23.66
+2,sub-10,02,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,합친 방법,12.10
+2,sub-10,02,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,12.10
+2,sub-10,02,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,합친 방법,36.79
+2,sub-10,02,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,쌍극자 스캔,15.08
+2,sub-10,03,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,39.76
+2,sub-10,03,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,40.84
+2,sub-10,03,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,21.16
+2,sub-10,03,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,24.37
+2,sub-10,03,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,23.73
+2,sub-10,03,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,32.85
+2,sub-10,03,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,26.34
+2,sub-10,03,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,35.52
+2,sub-10,04,5ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,합친 방법,54.32
+2,sub-10,04,5ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,쌍극자 스캔,56.61
+2,sub-10,04,5ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,합친 방법,28.80
+2,sub-10,04,5ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,쌍극자 스캔,23.16
+2,sub-10,04,5ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,합친 방법,21.89
+2,sub-10,04,5ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,쌍극자 스캔,15.26
+2,sub-10,04,5ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,합친 방법,21.89
+2,sub-10,04,5ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,쌍극자 스캔,19.77
+2,sub-11,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,22.49
+2,sub-11,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,19.55
+2,sub-11,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,19.13
+2,sub-11,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.13
+2,sub-11,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,19.13
+2,sub-11,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,15.83
+2,sub-11,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,32.55
+2,sub-11,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,32.55
+2,sub-11,02,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,26.37
+2,sub-11,02,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,24.09
+2,sub-11,02,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,36.28
+2,sub-11,02,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,32.88
+2,sub-11,02,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,6.43
+2,sub-11,02,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,6.43
+2,sub-11,02,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,26.28
+2,sub-11,02,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,26.28
+2,sub-11,03,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,23.05
+2,sub-11,03,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,20.72
+2,sub-11,03,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,27.06
+2,sub-11,03,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,30.35
+2,sub-11,03,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,25.72
+2,sub-11,03,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,25.72
+2,sub-11,03,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,25.93
+2,sub-11,03,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,25.87
+2,sub-11,04,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,25.60
+2,sub-11,04,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,18.64
+2,sub-11,04,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,37.57
+2,sub-11,04,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,37.57
+2,sub-11,04,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,29.67
+2,sub-11,04,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,32.36
+2,sub-11,04,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,21.75
+2,sub-11,04,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,19.04
+2,sub-11,05,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,26.19
+2,sub-11,05,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,29.75
+2,sub-11,05,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,25.76
+2,sub-11,05,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,31.72
+2,sub-11,05,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,23.32
+2,sub-11,05,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,26.49
+2,sub-11,05,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,25.76
+2,sub-11,05,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,29.65
+2,sub-11,06,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,30.47
+2,sub-11,06,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,21.68
+2,sub-11,06,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,41.85
+2,sub-11,06,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,41.61
+2,sub-11,06,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,19.04
+2,sub-11,06,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,16.09
+2,sub-11,06,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,29.66
+2,sub-11,06,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,31.20
+2,sub-11,07,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,43.89
+2,sub-11,07,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,42.26
+2,sub-11,07,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,11.73
+2,sub-11,07,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,11.73
+2,sub-11,07,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,7.67
+2,sub-11,07,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,10.22
+2,sub-11,07,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,47.87
+2,sub-11,07,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,49.09
+2,sub-12,01,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,63.75
+2,sub-12,01,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,62.57
+2,sub-12,01,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,15.63
+2,sub-12,01,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,13.17
+2,sub-12,01,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,26.41
+2,sub-12,01,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,25.54
+2,sub-12,01,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,28.00
+2,sub-12,01,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,26.90
+2,sub-12,02,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,27.49
+2,sub-12,02,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,21.64
+2,sub-12,02,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,15.76
+2,sub-12,02,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,26.88
+2,sub-12,02,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,16.73
+2,sub-12,02,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,20.35
+2,sub-12,02,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,16.73
+2,sub-12,02,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,20.04
+2,sub-12,03,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,55.40
+2,sub-12,03,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,55.40
+2,sub-12,03,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,40.97
+2,sub-12,03,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,40.96
+2,sub-12,03,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,23.55
+2,sub-12,03,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,23.55
+2,sub-12,03,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,23.55
+2,sub-12,03,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,23.55
+2,sub-12,04,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,39.78
+2,sub-12,04,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,46.95
+2,sub-12,04,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,30.63
+2,sub-12,04,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,27.56
+2,sub-12,04,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,21.90
+2,sub-12,04,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,21.34
+2,sub-12,04,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,19.93
+2,sub-12,04,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,21.07
+2,sub-12,05,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,65.50
+2,sub-12,05,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,56.62
+2,sub-12,05,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,61.09
+2,sub-12,05,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,66.86
+2,sub-12,05,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,18.65
+2,sub-12,05,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,17.52
+2,sub-12,05,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,24.99
+2,sub-12,05,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,27.71
+2,sub-12,06,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,41.10
+2,sub-12,06,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,47.73
+2,sub-12,06,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,26.41
+2,sub-12,06,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,28.56
+2,sub-12,06,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,17.19
+2,sub-12,06,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,20.82
+2,sub-12,06,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,20.82
+2,sub-12,06,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,20.82
+2,sub-12,07,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,30.79
+2,sub-12,07,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,30.79
+2,sub-12,07,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,21.96
+2,sub-12,07,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,21.96
+2,sub-12,07,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,20.24
+2,sub-12,07,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,20.58
+2,sub-12,07,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,22.42
+2,sub-12,07,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,22.42
+2,sub-12,08,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,69.52
+2,sub-12,08,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,65.95
+2,sub-12,08,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,69.03
+2,sub-12,08,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,63.96
+2,sub-12,08,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,59.26
+2,sub-12,08,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,58.60
+2,sub-12,08,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,13.09
+2,sub-12,08,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,20.48
+2,sub-12,09,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,48.86
+2,sub-12,09,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,49.02
+2,sub-12,09,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,32.54
+2,sub-12,09,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,23.85
+2,sub-12,09,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,21.93
+2,sub-12,09,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,21.34
+2,sub-12,09,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,38.15
+2,sub-12,09,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,44.12
+2,sub-12,10,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,74.86
+2,sub-12,10,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,75.79
+2,sub-12,10,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,23.31
+2,sub-12,10,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,23.88
+2,sub-12,10,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,15.43
+2,sub-12,10,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,15.57
+2,sub-12,10,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,14.14
+2,sub-12,10,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,15.57
+2,sub-12,11,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,26.53
+2,sub-12,11,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,21.63
+2,sub-12,11,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,26.53
+2,sub-12,11,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,21.63
+2,sub-12,11,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,21.63
+2,sub-12,11,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,23.47
+2,sub-12,11,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,25.44
+2,sub-12,11,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,21.63
+2,sub-12,12,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,8.20
+2,sub-12,12,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,6.94
+2,sub-12,12,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,11.79
+2,sub-12,12,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,6.94
+2,sub-12,12,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,64.92
+2,sub-12,12,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,22.63
+2,sub-12,12,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,85.96
+2,sub-12,12,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,68.16
+2,sub-12,13,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,40.41
+2,sub-12,13,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,39.57
+2,sub-12,13,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,65.75
+2,sub-12,13,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,69.70
+2,sub-12,13,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,35.32
+2,sub-12,13,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,37.59
+2,sub-12,13,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,23.96
+2,sub-12,13,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,25.19
+2,sub-12,14,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,58.05
+2,sub-12,14,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,57.96
+2,sub-12,14,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,37.40
+2,sub-12,14,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,44.57
+2,sub-12,14,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,28.07
+2,sub-12,14,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,28.26
+2,sub-12,14,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,33.38
+2,sub-12,14,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,37.54
+2,sub-12,15,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,84.53
+2,sub-12,15,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,84.53
+2,sub-12,15,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,84.53
+2,sub-12,15,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,85.11
+2,sub-12,15,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,85.79
+2,sub-12,15,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,93.78
+2,sub-12,15,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,77.94
+2,sub-12,15,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,77.94
+2,sub-12,16,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,43.13
+2,sub-12,16,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,74.92
+2,sub-12,16,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,21.14
+2,sub-12,16,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,21.14
+2,sub-12,16,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,13.03
+2,sub-12,16,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,12.89
+2,sub-12,16,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,10.31
+2,sub-12,16,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,10.12
+2,sub-12,17,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,40.47
+2,sub-12,17,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,36.24
+2,sub-12,17,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,28.62
+2,sub-12,17,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,23.06
+2,sub-12,17,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,8.99
+2,sub-12,17,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,7.78
+2,sub-12,17,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,15.02
+2,sub-12,17,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,17.43
+2,sub-19,01,1ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,47.31
+2,sub-19,01,1ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,52.35
+2,sub-19,01,1ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,32.46
+2,sub-19,01,1ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,32.37
+2,sub-19,01,1ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,31.21
+2,sub-19,01,1ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,31.21
+2,sub-19,01,1ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,40.65
+2,sub-19,01,1ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,31.96
+2,sub-19,02,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,66.20
+2,sub-19,02,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,70.79
+2,sub-19,02,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,49.68
+2,sub-19,02,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,62.76
+2,sub-19,02,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,39.45
+2,sub-19,02,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,43.99
+2,sub-19,02,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,34.58
+2,sub-19,02,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,34.58
+2,sub-19,03,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,84.69
+2,sub-19,03,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,104.87
+2,sub-19,03,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,18.82
+2,sub-19,03,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,18.82
+2,sub-19,03,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,15.54
+2,sub-19,03,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,14.28
+2,sub-19,03,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,17.75
+2,sub-19,03,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,16.79
+2,sub-19,04,3ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,22.69
+2,sub-19,04,3ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,22.69
+2,sub-19,04,3ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,22.13
+2,sub-19,04,3ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.87
+2,sub-19,04,3ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,16.60
+2,sub-19,04,3ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,17.71
+2,sub-19,04,3ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,14.30
+2,sub-19,04,3ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,14.30
+2,sub-19,05,1ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,28.10
+2,sub-19,05,1ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,23.16
+2,sub-19,05,1ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,35.56
+2,sub-19,05,1ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,37.29
+2,sub-19,05,1ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,37.17
+2,sub-19,05,1ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,42.98
+2,sub-19,05,1ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,47.76
+2,sub-19,05,1ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,47.76
+2,sub-19,06,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,27.43
+2,sub-19,06,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,22.00
+2,sub-19,06,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,32.85
+2,sub-19,06,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,31.20
+2,sub-19,06,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,34.54
+2,sub-19,06,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,39.35
+2,sub-19,06,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,57.85
+2,sub-19,06,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,59.80
+2,sub-20,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,12.67
+2,sub-20,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,10.49
+2,sub-20,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,10.10
+2,sub-20,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,9.87
+2,sub-20,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,4.48
+2,sub-20,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,10.47
+2,sub-20,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,15.75
+2,sub-20,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,17.21
+2,sub-20,02,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,21.03
+2,sub-20,02,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,17.37
+2,sub-20,02,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,16.14
+2,sub-20,02,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,10.65
+2,sub-20,02,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,5.62
+2,sub-20,02,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,5.21
+2,sub-20,02,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,11.52
+2,sub-20,02,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,6.84
+2,sub-20,03,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,25.44
+2,sub-20,03,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,25.44
+2,sub-20,03,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,13.05
+2,sub-20,03,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,12.67
+2,sub-20,03,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,11.51
+2,sub-20,03,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,8.87
+2,sub-20,03,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,20.66
+2,sub-20,03,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,20.90
+2,sub-20,04,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,66.89
+2,sub-20,04,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,58.03
+2,sub-20,04,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,32.46
+2,sub-20,04,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,23.04
+2,sub-20,04,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,32.46
+2,sub-20,04,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,28.82
+2,sub-20,04,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,32.74
+2,sub-20,04,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,32.46
+2,sub-20,05,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,23.77
+2,sub-20,05,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,23.77
+2,sub-20,05,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,25.90
+2,sub-20,05,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,21.24
+2,sub-20,05,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,21.24
+2,sub-20,05,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,17.28
+2,sub-20,05,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,24.19
+2,sub-20,05,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,19.61
+2,sub-20,06,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,50.35
+2,sub-20,06,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,47.77
+2,sub-20,06,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,11.47
+2,sub-20,06,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,11.47
+2,sub-20,06,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,21.76
+2,sub-20,06,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,21.76
+2,sub-20,06,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,25.32
+2,sub-20,06,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,24.00
+2,sub-20,07,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,48.39
+2,sub-20,07,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,48.62
+2,sub-20,07,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,9.73
+2,sub-20,07,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,8.58
+2,sub-20,07,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,20.96
+2,sub-20,07,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,18.60
+2,sub-20,07,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,25.42
+2,sub-20,07,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,26.89
+2,sub-20,08,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,45.94
+2,sub-20,08,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,46.42
+2,sub-20,08,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,22.97
+2,sub-20,08,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,16.20
+2,sub-20,08,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,12.61
+2,sub-20,08,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,12.61
+2,sub-20,08,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,14.65
+2,sub-20,08,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,13.12
+2,sub-20,09,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,51.45
+2,sub-20,09,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,49.97
+2,sub-20,09,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,21.94
+2,sub-20,09,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,21.25
+2,sub-20,09,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,23.40
+2,sub-20,09,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,25.02
+2,sub-20,09,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,28.67
+2,sub-20,09,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,28.67
+2,sub-21,01,5ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,합친 방법,50.19
+2,sub-21,01,5ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,50.19
+2,sub-21,01,5ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,합친 방법,27.75
+2,sub-21,01,5ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,쌍극자 스캔,24.25
+2,sub-21,01,5ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,합친 방법,10.21
+2,sub-21,01,5ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,10.21
+2,sub-21,01,5ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,합친 방법,14.99
+2,sub-21,01,5ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,쌍극자 스캔,10.21
+2,sub-21,02,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,합친 방법,51.16
+2,sub-21,02,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,36.17
+2,sub-21,02,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,합친 방법,58.48
+2,sub-21,02,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,쌍극자 스캔,58.74
+2,sub-21,02,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,합친 방법,25.49
+2,sub-21,02,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,28.53
+2,sub-21,02,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,합친 방법,16.96
+2,sub-21,02,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,쌍극자 스캔,20.95
+2,sub-21,03,5ma,0.5ms,perpend,wh_wh,예,자극 전 -5~-1,합친 방법,49.25
+2,sub-21,03,5ma,0.5ms,perpend,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,52.55
+2,sub-21,03,5ma,0.5ms,perpend,wh_wh,예,자극 직후 0~5,합친 방법,21.29
+2,sub-21,03,5ma,0.5ms,perpend,wh_wh,예,자극 직후 0~5,쌍극자 스캔,21.29
+2,sub-21,03,5ma,0.5ms,perpend,wh_wh,예,자극 잡음 최대 5~12,합친 방법,14.85
+2,sub-21,03,5ma,0.5ms,perpend,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,14.85
+2,sub-21,03,5ma,0.5ms,perpend,wh_wh,예,초기 반응 15~40,합친 방법,18.49
+2,sub-21,03,5ma,0.5ms,perpend,wh_wh,예,초기 반응 15~40,쌍극자 스캔,15.66
+2,sub-21,04,1ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,합친 방법,11.29
+2,sub-21,04,1ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,14.10
+2,sub-21,04,1ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,합친 방법,10.92
+2,sub-21,04,1ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,쌍극자 스캔,16.99
+2,sub-21,04,1ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,합친 방법,10.49
+2,sub-21,04,1ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,10.49
+2,sub-21,04,1ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,합친 방법,19.63
+2,sub-21,04,1ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,쌍극자 스캔,19.63
+2,sub-21,05,1ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,40.61
+2,sub-21,05,1ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,47.53
+2,sub-21,05,1ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,37.92
+2,sub-21,05,1ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,25.49
+2,sub-21,05,1ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,22.28
+2,sub-21,05,1ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,19.18
+2,sub-21,05,1ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,25.49
+2,sub-21,05,1ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,25.49
+2,sub-21,06,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,37.61
+2,sub-21,06,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,35.58
+2,sub-21,06,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,13.30
+2,sub-21,06,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,10.81
+2,sub-21,06,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,3.90
+2,sub-21,06,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,5.79
+2,sub-21,06,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,14.74
+2,sub-21,06,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,18.17
+2,sub-21,07,5ma,0.5ms,perpend,gr_gr,예,자극 전 -5~-1,합친 방법,49.92
+2,sub-21,07,5ma,0.5ms,perpend,gr_gr,예,자극 전 -5~-1,쌍극자 스캔,50.66
+2,sub-21,07,5ma,0.5ms,perpend,gr_gr,예,자극 직후 0~5,합친 방법,39.00
+2,sub-21,07,5ma,0.5ms,perpend,gr_gr,예,자극 직후 0~5,쌍극자 스캔,39.00
+2,sub-21,07,5ma,0.5ms,perpend,gr_gr,예,자극 잡음 최대 5~12,합친 방법,35.90
+2,sub-21,07,5ma,0.5ms,perpend,gr_gr,예,자극 잡음 최대 5~12,쌍극자 스캔,37.59
+2,sub-21,07,5ma,0.5ms,perpend,gr_gr,예,초기 반응 15~40,합친 방법,39.00
+2,sub-21,07,5ma,0.5ms,perpend,gr_gr,예,초기 반응 15~40,쌍극자 스캔,39.00
+2,sub-21,08,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,합친 방법,17.22
+2,sub-21,08,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,14.56
+2,sub-21,08,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,합친 방법,25.97
+2,sub-21,08,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,쌍극자 스캔,19.95
+2,sub-21,08,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,합친 방법,38.74
+2,sub-21,08,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,32.66
+2,sub-21,08,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,합친 방법,43.45
+2,sub-21,08,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,쌍극자 스캔,41.18
+2,sub-21,09,1ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,합친 방법,69.51
+2,sub-21,09,1ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,66.13
+2,sub-21,09,1ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,합친 방법,69.51
+2,sub-21,09,1ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,쌍극자 스캔,66.13
+2,sub-21,09,1ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,합친 방법,43.19
+2,sub-21,09,1ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,38.95
+2,sub-21,09,1ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,합친 방법,39.65
+2,sub-21,09,1ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,쌍극자 스캔,39.65
+2,sub-21,10,5ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,합친 방법,59.98
+2,sub-21,10,5ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,64.85
+2,sub-21,10,5ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,합친 방법,58.06
+2,sub-21,10,5ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,쌍극자 스캔,58.06
+2,sub-21,10,5ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,합친 방법,15.81
+2,sub-21,10,5ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,14.24
+2,sub-21,10,5ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,합친 방법,15.81
+2,sub-21,10,5ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,쌍극자 스캔,7.45
+2,sub-21,11,1ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,합친 방법,59.30
+2,sub-21,11,1ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,쌍극자 스캔,59.30
+2,sub-21,11,1ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,합친 방법,56.61
+2,sub-21,11,1ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,쌍극자 스캔,59.30
+2,sub-21,11,1ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,합친 방법,22.69
+2,sub-21,11,1ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,쌍극자 스캔,22.69
+2,sub-21,11,1ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,합친 방법,11.87
+2,sub-21,11,1ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,쌍극자 스캔,12.63
+2,sub-21,12,5ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,합친 방법,23.44
+2,sub-21,12,5ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,쌍극자 스캔,25.29
+2,sub-21,12,5ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,합친 방법,23.82
+2,sub-21,12,5ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,쌍극자 스캔,28.08
+2,sub-21,12,5ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,합친 방법,19.49
+2,sub-21,12,5ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,쌍극자 스캔,15.92
+2,sub-21,12,5ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,합친 방법,29.56
+2,sub-21,12,5ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,쌍극자 스캔,26.08
+2,sub-21,13,1ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,합친 방법,66.30
+2,sub-21,13,1ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,94.04
+2,sub-21,13,1ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,합친 방법,55.40
+2,sub-21,13,1ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,쌍극자 스캔,60.87
+2,sub-21,13,1ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,합친 방법,49.31
+2,sub-21,13,1ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,58.10
+2,sub-21,13,1ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,합친 방법,50.34
+2,sub-21,13,1ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,쌍극자 스캔,55.20
+2,sub-21,14,5ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,합친 방법,10.93
+2,sub-21,14,5ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,14.00
+2,sub-21,14,5ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,합친 방법,10.93
+2,sub-21,14,5ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,쌍극자 스캔,8.26
+2,sub-21,14,5ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,합친 방법,22.47
+2,sub-21,14,5ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,16.47
+2,sub-21,14,5ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,합친 방법,32.98
+2,sub-21,14,5ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,쌍극자 스캔,28.67
+2,sub-21,15,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,합친 방법,17.82
+2,sub-21,15,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,23.90
+2,sub-21,15,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,합친 방법,19.85
+2,sub-21,15,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,쌍극자 스캔,20.33
+2,sub-21,15,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,합친 방법,21.15
+2,sub-21,15,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,17.69
+2,sub-21,15,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,합친 방법,25.11
+2,sub-21,15,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,쌍극자 스캔,19.47
+2,sub-21,16,5ma,0.5ms,perpend,gr_gr,예,자극 전 -5~-1,합친 방법,53.38
+2,sub-21,16,5ma,0.5ms,perpend,gr_gr,예,자극 전 -5~-1,쌍극자 스캔,54.66
+2,sub-21,16,5ma,0.5ms,perpend,gr_gr,예,자극 직후 0~5,합친 방법,12.25
+2,sub-21,16,5ma,0.5ms,perpend,gr_gr,예,자극 직후 0~5,쌍극자 스캔,10.89
+2,sub-21,16,5ma,0.5ms,perpend,gr_gr,예,자극 잡음 최대 5~12,합친 방법,30.31
+2,sub-21,16,5ma,0.5ms,perpend,gr_gr,예,자극 잡음 최대 5~12,쌍극자 스캔,22.31
+2,sub-21,16,5ma,0.5ms,perpend,gr_gr,예,초기 반응 15~40,합친 방법,34.15
+2,sub-21,16,5ma,0.5ms,perpend,gr_gr,예,초기 반응 15~40,쌍극자 스캔,40.69
+2,sub-21,17,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,12.13
+2,sub-21,17,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,12.13
+2,sub-21,17,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,20.09
+2,sub-21,17,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,20.14
+2,sub-21,17,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,28.30
+2,sub-21,17,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,25.72
+2,sub-21,17,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,32.30
+2,sub-21,17,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,30.71
+2,sub-22,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,40.84
+2,sub-22,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,44.94
+2,sub-22,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,21.06
+2,sub-22,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.07
+2,sub-22,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,9.47
+2,sub-22,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,6.27
+2,sub-22,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,5.94
+2,sub-22,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,9.48
+2,sub-22,02,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,3.09
+2,sub-22,02,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,8.53
+2,sub-22,02,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,5.85
+2,sub-22,02,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,5.17
+2,sub-22,02,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,28.82
+2,sub-22,02,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,26.73
+2,sub-22,02,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,41.25
+2,sub-22,02,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,37.65
+2,sub-22,03,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,6.26
+2,sub-22,03,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,14.05
+2,sub-22,03,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,14.05
+2,sub-22,03,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,23.89
+2,sub-22,03,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,12.79
+2,sub-22,03,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,23.89
+2,sub-22,03,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,3.26
+2,sub-22,03,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,8.46
+2,sub-22,04,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,13.58
+2,sub-22,04,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,15.38
+2,sub-22,04,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,19.15
+2,sub-22,04,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,13.38
+2,sub-22,04,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,10.96
+2,sub-22,04,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,8.07
+2,sub-22,04,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,10.45
+2,sub-22,04,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,10.03
+2,sub-22,05,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,51.47
+2,sub-22,05,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,62.70
+2,sub-22,05,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,35.63
+2,sub-22,05,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,38.40
+2,sub-22,05,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,24.67
+2,sub-22,05,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,25.28
+2,sub-22,05,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,28.25
+2,sub-22,05,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,29.54
+2,sub-22,06,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,24.91
+2,sub-22,06,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,25.00
+2,sub-22,06,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,39.17
+2,sub-22,06,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,38.93
+2,sub-22,06,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,54.79
+2,sub-22,06,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,57.31
+2,sub-22,06,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,22.12
+2,sub-22,06,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,21.68
+2,sub-22,07,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,29.87
+2,sub-22,07,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,25.14
+2,sub-22,07,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,26.51
+2,sub-22,07,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,22.56
+2,sub-22,07,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,21.33
+2,sub-22,07,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,21.33
+2,sub-22,07,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,21.33
+2,sub-22,07,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,16.15
+2,sub-22,08,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,36.93
+2,sub-22,08,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,37.60
+2,sub-22,08,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,56.73
+2,sub-22,08,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,57.47
+2,sub-22,08,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,6.98
+2,sub-22,08,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,7.96
+2,sub-22,08,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,18.92
+2,sub-22,08,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,14.42
+2,sub-22,09,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,39.63
+2,sub-22,09,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,38.06
+2,sub-22,09,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,15.45
+2,sub-22,09,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,20.81
+2,sub-22,09,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,12.82
+2,sub-22,09,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,13.68
+2,sub-22,09,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,21.32
+2,sub-22,09,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,12.82
+2,sub-22,10,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,28.17
+2,sub-22,10,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,37.93
+2,sub-22,10,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,20.26
+2,sub-22,10,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,23.10
+2,sub-22,10,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,19.39
+2,sub-22,10,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,13.74
+2,sub-22,10,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,16.95
+2,sub-22,10,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,14.02
+2,sub-22,11,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,27.12
+2,sub-22,11,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,24.75
+2,sub-22,11,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,29.41
+2,sub-22,11,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,26.34
+2,sub-22,11,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,14.17
+2,sub-22,11,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,15.48
+2,sub-22,11,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,16.21
+2,sub-22,11,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,17.45
+2,sub-27,01,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,27.77
+2,sub-27,01,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,27.77
+2,sub-27,01,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,14.56
+2,sub-27,01,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,18.17
+2,sub-27,01,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,7.91
+2,sub-27,01,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,7.91
+2,sub-27,01,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,7.43
+2,sub-27,01,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,10.11
+2,sub-27,02,3ma,0.5ms,perpend,wh_wh,예,자극 전 -5~-1,합친 방법,25.08
+2,sub-27,02,3ma,0.5ms,perpend,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,24.72
+2,sub-27,02,3ma,0.5ms,perpend,wh_wh,예,자극 직후 0~5,합친 방법,20.93
+2,sub-27,02,3ma,0.5ms,perpend,wh_wh,예,자극 직후 0~5,쌍극자 스캔,20.19
+2,sub-27,02,3ma,0.5ms,perpend,wh_wh,예,자극 잡음 최대 5~12,합친 방법,15.28
+2,sub-27,02,3ma,0.5ms,perpend,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,14.04
+2,sub-27,02,3ma,0.5ms,perpend,wh_wh,예,초기 반응 15~40,합친 방법,35.82
+2,sub-27,02,3ma,0.5ms,perpend,wh_wh,예,초기 반응 15~40,쌍극자 스캔,36.69
+2,sub-27,03,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,14.27
+2,sub-27,03,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,11.12
+2,sub-27,03,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,14.27
+2,sub-27,03,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,14.75
+2,sub-27,03,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,16.21
+2,sub-27,03,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,16.21
+2,sub-27,03,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,26.27
+2,sub-27,03,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,22.64
+2,sub-27,04,3ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,15.95
+2,sub-27,04,3ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,8.13
+2,sub-27,04,3ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,7.75
+2,sub-27,04,3ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,3.09
+2,sub-27,04,3ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,6.45
+2,sub-27,04,3ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,3.09
+2,sub-27,04,3ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,25.90
+2,sub-27,04,3ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,21.43
+2,sub-27,05,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,합친 방법,14.21
+2,sub-27,05,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,7.32
+2,sub-27,05,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,합친 방법,12.22
+2,sub-27,05,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,쌍극자 스캔,9.95
+2,sub-27,05,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,합친 방법,9.94
+2,sub-27,05,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,10.57
+2,sub-27,05,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,합친 방법,12.30
+2,sub-27,05,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,쌍극자 스캔,15.17
+2,sub-29,01,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,28.49
+2,sub-29,01,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,19.54
+2,sub-29,01,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,39.89
+2,sub-29,01,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,32.32
+2,sub-29,01,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,32.77
+2,sub-29,01,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,27.94
+2,sub-29,01,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,30.57
+2,sub-29,01,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,27.94
+2,sub-29,02,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,39.48
+2,sub-29,02,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,30.68
+2,sub-29,02,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,21.57
+2,sub-29,02,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,21.57
+2,sub-29,02,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,14.41
+2,sub-29,02,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,18.83
+2,sub-29,02,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,11.69
+2,sub-29,02,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,8.94
+2,sub-29,03,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,5.26
+2,sub-29,03,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,15.38
+2,sub-29,03,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,5.26
+2,sub-29,03,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,15.38
+2,sub-29,03,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,10.16
+2,sub-29,03,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,10.16
+2,sub-29,03,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,8.39
+2,sub-29,03,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.16
+2,sub-29,04,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,6.21
+2,sub-29,04,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,13.23
+2,sub-29,04,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,9.62
+2,sub-29,04,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,8.07
+2,sub-29,04,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,9.45
+2,sub-29,04,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,9.45
+2,sub-29,04,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,13.62
+2,sub-29,04,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,13.10
+2,sub-29,05,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,30.40
+2,sub-29,05,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,36.89
+2,sub-29,05,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,10.55
+2,sub-29,05,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,4.06
+2,sub-29,05,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,13.00
+2,sub-29,05,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,15.73
+2,sub-29,05,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,15.73
+2,sub-29,05,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,15.73
+2,sub-29,06,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,24.79
+2,sub-29,06,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,32.45
+2,sub-29,06,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,14.21
+2,sub-29,06,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,16.61
+2,sub-29,06,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,7.29
+2,sub-29,06,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,7.29
+2,sub-29,06,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,5.92
+2,sub-29,06,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.44
+2,sub-29,07,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,6.93
+2,sub-29,07,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,8.20
+2,sub-29,07,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,6.93
+2,sub-29,07,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,3.81
+2,sub-29,07,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,11.60
+2,sub-29,07,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,11.77
+2,sub-29,07,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,13.11
+2,sub-29,07,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,16.15
+2,sub-29,08,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,38.44
+2,sub-29,08,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,44.05
+2,sub-29,08,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,19.09
+2,sub-29,08,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.09
+2,sub-29,08,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,10.93
+2,sub-29,08,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,7.02
+2,sub-29,08,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,6.12
+2,sub-29,08,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,7.02
+2,sub-29,09,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,20.04
+2,sub-29,09,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,28.83
+2,sub-29,09,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,14.74
+2,sub-29,09,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,20.04
+2,sub-29,09,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,5.14
+2,sub-29,09,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,5.14
+2,sub-29,09,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,6.65
+2,sub-29,09,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,6.65
+2,sub-29,10,5ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,합친 방법,43.81
+2,sub-29,10,5ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,쌍극자 스캔,43.81
+2,sub-29,10,5ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,합친 방법,18.52
+2,sub-29,10,5ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,쌍극자 스캔,17.23
+2,sub-29,10,5ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,합친 방법,4.33
+2,sub-29,10,5ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,4.33
+2,sub-29,10,5ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,합친 방법,3.23
+2,sub-29,10,5ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,쌍극자 스캔,6.04
+2,sub-29,11,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,33.05
+2,sub-29,11,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,35.38
+2,sub-29,11,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,22.66
+2,sub-29,11,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,22.23
+2,sub-29,11,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,17.45
+2,sub-29,11,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,17.87
+2,sub-29,11,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,17.45
+2,sub-29,11,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,17.87
+2,sub-31,01,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,49.21
+2,sub-31,01,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,49.99
+2,sub-31,01,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,10.74
+2,sub-31,01,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,5.10
+2,sub-31,01,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,22.43
+2,sub-31,01,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,16.18
+2,sub-31,01,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,26.67
+2,sub-31,01,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,28.03
+2,sub-31,02,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,14.98
+2,sub-31,02,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,11.43
+2,sub-31,02,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,11.43
+2,sub-31,02,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,11.43
+2,sub-31,02,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,11.43
+2,sub-31,02,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,11.43
+2,sub-31,02,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,12.28
+2,sub-31,02,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,7.64
+2,sub-31,03,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,25.03
+2,sub-31,03,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,25.27
+2,sub-31,03,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,17.83
+2,sub-31,03,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,18.47
+2,sub-31,03,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,7.71
+2,sub-31,03,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,3.46
+2,sub-31,03,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,6.17
+2,sub-31,03,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,7.48
+2,sub-35,01,0.1ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,58.29
+2,sub-35,01,0.1ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,65.09
+2,sub-35,01,0.1ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,66.34
+2,sub-35,01,0.1ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,66.34
+2,sub-35,01,0.1ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,86.65
+2,sub-35,01,0.1ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,89.72
+2,sub-35,01,0.1ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,78.23
+2,sub-35,01,0.1ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,78.23
+2,sub-35,02,3ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,합친 방법,29.76
+2,sub-35,02,3ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,쌍극자 스캔,35.33
+2,sub-35,02,3ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,합친 방법,45.99
+2,sub-35,02,3ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,쌍극자 스캔,45.99
+2,sub-35,02,3ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,합친 방법,50.45
+2,sub-35,02,3ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,54.52
+2,sub-35,02,3ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,합친 방법,27.75
+2,sub-35,02,3ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,쌍극자 스캔,26.55
+2,sub-35,03,0.1ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,100.06
+2,sub-35,03,0.1ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,100.06
+2,sub-35,03,0.1ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,73.26
+2,sub-35,03,0.1ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,70.47
+2,sub-35,03,0.1ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,66.02
+2,sub-35,03,0.1ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,66.02
+2,sub-35,03,0.1ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,73.26
+2,sub-35,03,0.1ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,73.26
+2,sub-35,04,3ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,125.32
+2,sub-35,04,3ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,115.93
+2,sub-35,04,3ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,33.79
+2,sub-35,04,3ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,10.73
+2,sub-35,04,3ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,20.57
+2,sub-35,04,3ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,5.57
+2,sub-35,04,3ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,16.69
+2,sub-35,04,3ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,12.52
+2,sub-35,05,0.1ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,74.59
+2,sub-35,05,0.1ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,76.51
+2,sub-35,05,0.1ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,76.75
+2,sub-35,05,0.1ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,76.51
+2,sub-35,05,0.1ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,82.63
+2,sub-35,05,0.1ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,82.63
+2,sub-35,05,0.1ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,18.31
+2,sub-35,05,0.1ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,91.91
+2,sub-35,06,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,93.23
+2,sub-35,06,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,97.94
+2,sub-35,06,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,44.26
+2,sub-35,06,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,47.37
+2,sub-35,06,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,15.44
+2,sub-35,06,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,11.72
+2,sub-35,06,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,11.72
+2,sub-35,06,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,11.72
+2,sub-35,07,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,51.64
+2,sub-35,07,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,51.96
+2,sub-35,07,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,59.40
+2,sub-35,07,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,60.74
+2,sub-35,07,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,78.51
+2,sub-35,07,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,78.47
+2,sub-35,07,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,31.37
+2,sub-35,07,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,31.37
+2,sub-35,08,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,29.77
+2,sub-35,08,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,21.84
+2,sub-35,08,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,13.04
+2,sub-35,08,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,5.42
+2,sub-35,08,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,13.04
+2,sub-35,08,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,9.92
+2,sub-35,08,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,20.45
+2,sub-35,08,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,20.37
+2,sub-35,09,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,107.66
+2,sub-35,09,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,114.92
+2,sub-35,09,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,26.81
+2,sub-35,09,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,34.03
+2,sub-35,09,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,14.55
+2,sub-35,09,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,20.31
+2,sub-35,09,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,28.83
+2,sub-35,09,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,31.43
+2,sub-35,10,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,40.91
+2,sub-35,10,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,40.91
+2,sub-35,10,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,21.52
+2,sub-35,10,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,18.97
+2,sub-35,10,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,30.03
+2,sub-35,10,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,30.03
+2,sub-35,10,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,31.76
+2,sub-35,10,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,26.12
+2,sub-35,11,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,65.67
+2,sub-35,11,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,67.70
+2,sub-35,11,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,32.76
+2,sub-35,11,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,30.61
+2,sub-35,11,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,44.63
+2,sub-35,11,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,44.63
+2,sub-35,11,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,32.27
+2,sub-35,11,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,22.78
+2,sub-35,12,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,21.11
+2,sub-35,12,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,19.99
+2,sub-35,12,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,19.99
+2,sub-35,12,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,18.54
+2,sub-35,12,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,18.54
+2,sub-35,12,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,18.93
+2,sub-35,12,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,18.54
+2,sub-35,12,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,18.93
+2,sub-35,13,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,47.14
+2,sub-35,13,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,43.65
+2,sub-35,13,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,49.38
+2,sub-35,13,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,46.85
+2,sub-35,13,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,36.68
+2,sub-35,13,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,50.52
+2,sub-35,13,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,28.57
+2,sub-35,13,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,26.19
+2,sub-36,01,3ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,98.83
+2,sub-36,01,3ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,103.15
+2,sub-36,01,3ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,28.89
+2,sub-36,01,3ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,28.89
+2,sub-36,01,3ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,26.84
+2,sub-36,01,3ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,26.84
+2,sub-36,01,3ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,26.84
+2,sub-36,01,3ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,26.84
+2,sub-36,02,1ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,28.49
+2,sub-36,02,1ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,21.44
+2,sub-36,02,1ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,24.06
+2,sub-36,02,1ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,26.63
+2,sub-36,02,1ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,15.91
+2,sub-36,02,1ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,26.63
+2,sub-36,02,1ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,12.51
+2,sub-36,02,1ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,15.91
+2,sub-36,03,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,100.58
+2,sub-36,03,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,100.58
+2,sub-36,03,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,13.68
+2,sub-36,03,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,13.68
+2,sub-36,03,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,21.23
+2,sub-36,03,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,24.31
+2,sub-36,03,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,21.23
+2,sub-36,03,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,20.23
+2,sub-36,04,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,51.95
+2,sub-36,04,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,57.12
+2,sub-36,04,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,56.90
+2,sub-36,04,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,54.76
+2,sub-36,04,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,65.07
+2,sub-36,04,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,56.90
+2,sub-36,04,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,65.33
+2,sub-36,04,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,61.51
+2,sub-36,05,3ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,97.10
+2,sub-36,05,3ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,89.13
+2,sub-36,05,3ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,64.63
+2,sub-36,05,3ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,64.63
+2,sub-36,05,3ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,44.09
+2,sub-36,05,3ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,44.09
+2,sub-36,05,3ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,44.09
+2,sub-36,05,3ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,44.09
+2,sub-36,06,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,38.55
+2,sub-36,06,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,30.30
+2,sub-36,06,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,30.29
+2,sub-36,06,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,25.68
+2,sub-36,06,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,35.54
+2,sub-36,06,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,25.68
+2,sub-36,06,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,37.81
+2,sub-36,06,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,37.81
+2,sub-36,07,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,59.36
+2,sub-36,07,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,62.65
+2,sub-36,07,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,31.42
+2,sub-36,07,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,25.90
+2,sub-36,07,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,31.42
+2,sub-36,07,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,25.90
+2,sub-36,07,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,40.77
+2,sub-36,07,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,49.76
+2,sub-36,08,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,38.91
+2,sub-36,08,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,34.70
+2,sub-36,08,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,13.13
+2,sub-36,08,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,14.71
+2,sub-36,08,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,12.35
+2,sub-36,08,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,11.66
+2,sub-36,08,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,9.99
+2,sub-36,08,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,9.99
+2,sub-36,09,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,28.31
+2,sub-36,09,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,25.44
+2,sub-36,09,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,25.44
+2,sub-36,09,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,25.44
+2,sub-36,09,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,24.43
+2,sub-36,09,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,24.43
+2,sub-36,09,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,24.43
+2,sub-36,09,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,24.43
+2,sub-36,10,0.5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,96.45
+2,sub-36,10,0.5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,108.73
+2,sub-36,10,0.5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,107.91
+2,sub-36,10,0.5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,115.83
+2,sub-36,10,0.5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,97.20
+2,sub-36,10,0.5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,115.70
+2,sub-36,10,0.5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,130.48
+2,sub-36,10,0.5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,127.56
+2,sub-36,11,1ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,21.65
+2,sub-36,11,1ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,21.65
+2,sub-36,11,1ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,29.78
+2,sub-36,11,1ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,33.08
+2,sub-36,11,1ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,67.36
+2,sub-36,11,1ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,67.01
+2,sub-36,11,1ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,29.56
+2,sub-36,11,1ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,28.12
+2,sub-36,12,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,69.45
+2,sub-36,12,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,61.83
+2,sub-36,12,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,39.77
+2,sub-36,12,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,39.77
+2,sub-36,12,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,29.05
+2,sub-36,12,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,24.45
+2,sub-36,12,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,26.95
+2,sub-36,12,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,23.10
+2,sub-36,13,3ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,62.15
+2,sub-36,13,3ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,64.85
+2,sub-36,13,3ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,42.81
+2,sub-36,13,3ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,42.81
+2,sub-36,13,3ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,39.60
+2,sub-36,13,3ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,39.14
+2,sub-36,13,3ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,38.45
+2,sub-36,13,3ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,39.16
+2,sub-06,01,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,43.89
+2,sub-06,01,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,50.94
+2,sub-06,01,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,19.36
+2,sub-06,01,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,17.90
+2,sub-06,01,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,11.32
+2,sub-06,01,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,18.51
+2,sub-06,01,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,14.20
+2,sub-06,01,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,17.62
+2,sub-06,02,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,12.72
+2,sub-06,02,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,12.72
+2,sub-06,02,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,12.72
+2,sub-06,02,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,12.72
+2,sub-06,02,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,18.95
+2,sub-06,02,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,18.95
+2,sub-06,02,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,26.26
+2,sub-06,02,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,20.45
+2,sub-06,03,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,36.61
+2,sub-06,03,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,39.01
+2,sub-06,03,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,26.77
+2,sub-06,03,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,26.77
+2,sub-06,03,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,26.77
+2,sub-06,03,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,26.77
+2,sub-06,03,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,26.97
+2,sub-06,03,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,36.30
+2,sub-06,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,19.39
+2,sub-06,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,23.08
+2,sub-06,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,25.34
+2,sub-06,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,25.90
+2,sub-06,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,42.76
+2,sub-06,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,42.76
+2,sub-06,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,43.51
+2,sub-06,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,47.35
+2,sub-06,05,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,48.04
+2,sub-06,05,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,51.73
+2,sub-06,05,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,54.91
+2,sub-06,05,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,58.39
+2,sub-06,05,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,25.87
+2,sub-06,05,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,21.41
+2,sub-06,05,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,18.69
+2,sub-06,05,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,18.69
+2,sub-06,06,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,29.24
+2,sub-06,06,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,29.45
+2,sub-06,06,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,25.76
+2,sub-06,06,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,21.51
+2,sub-06,06,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,15.67
+2,sub-06,06,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,15.67
+2,sub-06,06,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,19.44
+2,sub-06,06,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,19.44
+2,sub-06,07,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,33.74
+2,sub-06,07,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,38.20
+2,sub-06,07,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,6.97
+2,sub-06,07,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,6.29
+2,sub-06,07,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,13.02
+2,sub-06,07,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,11.48
+2,sub-06,07,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,31.27
+2,sub-06,07,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,31.97
+2,sub-06,08,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,41.05
+2,sub-06,08,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,44.22
+2,sub-06,08,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,31.78
+2,sub-06,08,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,31.58
+2,sub-06,08,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,28.40
+2,sub-06,08,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,19.59
+2,sub-06,08,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,14.19
+2,sub-06,08,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.75
+2,sub-08,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,16.53
+2,sub-08,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,18.53
+2,sub-08,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,13.92
+2,sub-08,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,14.65
+2,sub-08,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,14.65
+2,sub-08,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,14.65
+2,sub-08,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,11.63
+2,sub-08,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,21.53
+2,sub-08,02,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,13.05
+2,sub-08,02,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,17.16
+2,sub-08,02,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,13.05
+2,sub-08,02,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,17.16
+2,sub-08,02,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,13.05
+2,sub-08,02,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,14.31
+2,sub-08,02,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,36.57
+2,sub-08,02,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,33.26
+2,sub-08,03,3ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,22.58
+2,sub-08,03,3ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,44.18
+2,sub-08,03,3ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,30.21
+2,sub-08,03,3ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,30.47
+2,sub-08,03,3ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,16.75
+2,sub-08,03,3ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,16.75
+2,sub-08,03,3ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,20.58
+2,sub-08,03,3ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,16.67
+2,sub-08,04,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,31.30
+2,sub-08,04,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,32.27
+2,sub-08,04,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,39.47
+2,sub-08,04,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,38.99
+2,sub-08,04,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,14.35
+2,sub-08,04,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,17.94
+2,sub-08,04,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,17.78
+2,sub-08,04,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,17.94
+2,sub-08,05,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,15.39
+2,sub-08,05,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,10.71
+2,sub-08,05,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,22.85
+2,sub-08,05,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,26.50
+2,sub-08,05,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,19.49
+2,sub-08,05,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,19.49
+2,sub-08,05,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,17.19
+2,sub-08,05,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,18.75
+2,sub-08,06,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,46.68
+2,sub-08,06,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,51.50
+2,sub-08,06,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,36.74
+2,sub-08,06,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,35.02
+2,sub-08,06,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,32.66
+2,sub-08,06,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,31.07
+2,sub-08,06,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,26.95
+2,sub-08,06,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,26.95
+2,sub-08,07,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,14.29
+2,sub-08,07,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,14.29
+2,sub-08,07,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,6.82
+2,sub-08,07,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,11.62
+2,sub-08,07,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,7.93
+2,sub-08,07,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,7.93
+2,sub-08,07,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,10.82
+2,sub-08,07,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.82
+2,sub-08,08,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,80.61
+2,sub-08,08,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,81.46
+2,sub-08,08,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,11.08
+2,sub-08,08,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,11.08
+2,sub-08,08,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,17.67
+2,sub-08,08,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,17.67
+2,sub-08,08,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,17.67
+2,sub-08,08,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,17.67
+2,sub-08,09,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,73.21
+2,sub-08,09,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,80.35
+2,sub-08,09,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,22.36
+2,sub-08,09,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,20.04
+2,sub-08,09,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,30.05
+2,sub-08,09,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,24.72
+2,sub-08,09,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,30.05
+2,sub-08,09,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,24.72
+2,sub-08,10,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,16.06
+2,sub-08,10,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,16.06
+2,sub-08,10,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,12.02
+2,sub-08,10,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,16.06
+2,sub-08,10,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,3.04
+2,sub-08,10,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,7.73
+2,sub-08,10,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,9.21
+2,sub-08,10,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,7.73
+2,sub-08,11,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,51.30
+2,sub-08,11,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,47.48
+2,sub-08,11,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,40.34
+2,sub-08,11,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,38.48
+2,sub-08,11,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,19.46
+2,sub-08,11,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,19.46
+2,sub-08,11,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,15.43
+2,sub-08,11,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,15.43
+2,sub-09,01,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,22.12
+2,sub-09,01,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,22.12
+2,sub-09,01,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,14.35
+2,sub-09,01,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,16.39
+2,sub-09,01,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,8.65
+2,sub-09,01,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,6.34
+2,sub-09,01,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,10.58
+2,sub-09,01,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,4.89
+2,sub-09,02,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,12.60
+2,sub-09,02,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,25.78
+2,sub-09,02,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,18.57
+2,sub-09,02,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,22.17
+2,sub-09,02,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,19.75
+2,sub-09,02,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,23.34
+2,sub-09,02,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,17.37
+2,sub-09,02,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,17.51
+2,sub-13,01,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,4.78
+2,sub-13,01,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,7.46
+2,sub-13,01,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,3.51
+2,sub-13,01,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,2.11
+2,sub-13,01,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,8.82
+2,sub-13,01,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,12.93
+2,sub-13,01,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,19.12
+2,sub-13,01,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,20.56
+2,sub-13,02,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,42.08
+2,sub-13,02,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,43.46
+2,sub-13,02,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,34.85
+2,sub-13,02,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,34.85
+2,sub-13,02,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,18.10
+2,sub-13,02,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,18.10
+2,sub-13,02,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,23.02
+2,sub-13,02,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,20.50
+2,sub-13,03,4ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,합친 방법,17.94
+2,sub-13,03,4ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,쌍극자 스캔,22.15
+2,sub-13,03,4ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,합친 방법,15.25
+2,sub-13,03,4ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,쌍극자 스캔,21.86
+2,sub-13,03,4ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,합친 방법,21.40
+2,sub-13,03,4ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,21.40
+2,sub-13,03,4ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,합친 방법,18.75
+2,sub-13,03,4ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,쌍극자 스캔,21.40
+2,sub-14,01,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,20.81
+2,sub-14,01,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,14.31
+2,sub-14,01,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,7.28
+2,sub-14,01,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,7.28
+2,sub-14,01,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,10.22
+2,sub-14,01,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,12.61
+2,sub-14,01,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,15.80
+2,sub-14,01,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,15.80
+2,sub-14,02,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,14.90
+2,sub-14,02,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,17.05
+2,sub-14,02,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,6.89
+2,sub-14,02,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,3.45
+2,sub-14,02,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,8.32
+2,sub-14,02,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,7.39
+2,sub-14,02,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,10.22
+2,sub-14,02,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.22
+2,sub-14,03,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,8.56
+2,sub-14,03,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,8.56
+2,sub-14,03,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,4.65
+2,sub-14,03,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,6.82
+2,sub-14,03,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,4.65
+2,sub-14,03,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,5.34
+2,sub-14,03,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,4.65
+2,sub-14,03,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,5.34
+2,sub-14,04,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,43.25
+2,sub-14,04,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,41.31
+2,sub-14,04,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,42.22
+2,sub-14,04,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,42.22
+2,sub-14,04,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,29.22
+2,sub-14,04,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,32.19
+2,sub-14,04,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,31.76
+2,sub-14,04,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,31.76
+2,sub-14,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,18.31
+2,sub-14,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,18.31
+2,sub-14,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,25.81
+2,sub-14,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,25.81
+2,sub-14,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,10.90
+2,sub-14,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,11.50
+2,sub-14,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,14.47
+2,sub-14,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,14.47
+2,sub-14,06,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,19.19
+2,sub-14,06,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,19.19
+2,sub-14,06,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,13.19
+2,sub-14,06,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,15.29
+2,sub-14,06,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,8.73
+2,sub-14,06,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,5.75
+2,sub-14,06,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,5.75
+2,sub-14,06,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,5.75
+2,sub-14,07,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,32.46
+2,sub-14,07,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,39.79
+2,sub-14,07,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,21.12
+2,sub-14,07,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,27.38
+2,sub-14,07,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,5.34
+2,sub-14,07,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,8.48
+2,sub-14,07,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,12.06
+2,sub-14,07,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,5.42
+2,sub-14,08,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,27.68
+2,sub-14,08,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,30.77
+2,sub-14,08,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,12.55
+2,sub-14,08,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,12.55
+2,sub-14,08,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,9.06
+2,sub-14,08,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,6.37
+2,sub-14,08,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,20.22
+2,sub-14,08,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,16.38
+2,sub-15,01,3ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,20.74
+2,sub-15,01,3ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,9.24
+2,sub-15,01,3ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,24.05
+2,sub-15,01,3ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,20.07
+2,sub-15,01,3ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,20.07
+2,sub-15,01,3ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,20.07
+2,sub-15,01,3ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,16.14
+2,sub-15,01,3ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,11.43
+2,sub-15,02,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,37.31
+2,sub-15,02,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,40.06
+2,sub-15,02,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,48.47
+2,sub-15,02,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,51.35
+2,sub-15,02,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,57.38
+2,sub-15,02,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,59.95
+2,sub-15,02,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,22.69
+2,sub-15,02,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,28.33
+2,sub-15,03,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,39.71
+2,sub-15,03,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,43.23
+2,sub-15,03,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,50.39
+2,sub-15,03,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,57.08
+2,sub-15,03,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,11.09
+2,sub-15,03,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,13.89
+2,sub-15,03,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,23.01
+2,sub-15,03,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,25.98
+2,sub-15,04,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,39.88
+2,sub-15,04,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,37.24
+2,sub-15,04,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,42.93
+2,sub-15,04,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,42.93
+2,sub-15,04,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,32.48
+2,sub-15,04,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,39.19
+2,sub-15,04,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,34.48
+2,sub-15,04,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,37.19
+2,sub-15,05,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,12.13
+2,sub-15,05,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,15.29
+2,sub-15,05,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,16.43
+2,sub-15,05,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,24.02
+2,sub-15,05,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,17.61
+2,sub-15,05,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,22.72
+2,sub-15,05,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,15.85
+2,sub-15,05,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,19.18
+2,sub-15,06,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,50.44
+2,sub-15,06,3ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,54.92
+2,sub-15,06,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,59.96
+2,sub-15,06,3ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,59.96
+2,sub-15,06,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,39.31
+2,sub-15,06,3ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,40.01
+2,sub-15,06,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,42.92
+2,sub-15,06,3ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,50.70
+2,sub-15,07,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,54.92
+2,sub-15,07,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,58.97
+2,sub-15,07,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,70.70
+2,sub-15,07,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,68.85
+2,sub-15,07,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,42.82
+2,sub-15,07,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,43.04
+2,sub-15,07,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,42.92
+2,sub-15,07,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,50.70
+2,sub-15,08,3ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,36.17
+2,sub-15,08,3ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,35.33
+2,sub-15,08,3ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,46.21
+2,sub-15,08,3ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,46.36
+2,sub-15,08,3ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,29.46
+2,sub-15,08,3ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,31.78
+2,sub-15,08,3ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,20.54
+2,sub-15,08,3ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,20.54
+2,sub-15,09,3ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,14.24
+2,sub-15,09,3ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,7.57
+2,sub-15,09,3ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,35.80
+2,sub-15,09,3ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,36.72
+2,sub-15,09,3ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,22.76
+2,sub-15,09,3ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,22.76
+2,sub-15,09,3ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,18.88
+2,sub-15,09,3ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,22.31
+2,sub-15,10,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,20.02
+2,sub-15,10,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,26.85
+2,sub-15,10,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,28.34
+2,sub-15,10,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,39.72
+2,sub-15,10,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,24.82
+2,sub-15,10,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,24.82
+2,sub-15,10,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,29.40
+2,sub-15,10,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,29.40
+2,sub-15,11,3ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,30.90
+2,sub-15,11,3ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,39.45
+2,sub-15,11,3ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,22.51
+2,sub-15,11,3ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,22.51
+2,sub-15,11,3ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,5.32
+2,sub-15,11,3ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,5.32
+2,sub-15,11,3ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,7.93
+2,sub-15,11,3ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,11.54
+2,sub-15,12,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,19.09
+2,sub-15,12,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,19.09
+2,sub-15,12,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,8.85
+2,sub-15,12,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.54
+2,sub-15,12,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,11.35
+2,sub-15,12,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,6.54
+2,sub-15,12,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,2.27
+2,sub-15,12,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,12.00
+2,sub-15,13,3ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,38.46
+2,sub-15,13,3ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,39.90
+2,sub-15,13,3ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,22.25
+2,sub-15,13,3ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.74
+2,sub-15,13,3ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,18.77
+2,sub-15,13,3ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,18.77
+2,sub-15,13,3ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,21.48
+2,sub-15,13,3ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,21.48
+2,sub-15,14,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,38.50
+2,sub-15,14,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,33.91
+2,sub-15,14,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,27.96
+2,sub-15,14,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,27.73
+2,sub-15,14,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,18.50
+2,sub-15,14,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,21.48
+2,sub-15,14,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,24.93
+2,sub-15,14,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,24.93
+2,sub-15,15,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,34.76
+2,sub-15,15,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,32.90
+2,sub-15,15,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,39.86
+2,sub-15,15,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,39.86
+2,sub-15,15,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,39.32
+2,sub-15,15,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,39.32
+2,sub-15,15,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,45.97
+2,sub-15,15,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,48.16
+2,sub-15,16,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,50.90
+2,sub-15,16,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,50.90
+2,sub-15,16,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,49.69
+2,sub-15,16,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,50.80
+2,sub-15,16,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,49.98
+2,sub-15,16,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,49.98
+2,sub-15,16,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,47.63
+2,sub-15,16,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,47.38
+2,sub-16,01,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,18.01
+2,sub-16,01,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,15.50
+2,sub-16,01,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,15.50
+2,sub-16,01,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,13.13
+2,sub-16,01,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,13.13
+2,sub-16,01,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,16.30
+2,sub-16,01,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,16.30
+2,sub-16,01,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,16.30
+2,sub-16,02,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,32.28
+2,sub-16,02,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,28.91
+2,sub-16,02,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,17.89
+2,sub-16,02,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,19.00
+2,sub-16,02,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,11.12
+2,sub-16,02,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,11.12
+2,sub-16,02,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,12.97
+2,sub-16,02,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,16.13
+2,sub-16,03,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,17.58
+2,sub-16,03,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,17.58
+2,sub-16,03,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,17.13
+2,sub-16,03,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,18.48
+2,sub-16,03,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,17.13
+2,sub-16,03,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,22.46
+2,sub-16,03,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,26.19
+2,sub-16,03,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,27.72
+2,sub-16,04,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,9.14
+2,sub-16,04,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,5.38
+2,sub-16,04,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,6.55
+2,sub-16,04,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,5.38
+2,sub-16,04,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,5.38
+2,sub-16,04,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,3.68
+2,sub-16,04,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,21.88
+2,sub-16,04,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,21.88
+2,sub-16,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,28.13
+2,sub-16,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,24.61
+2,sub-16,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,19.14
+2,sub-16,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,18.27
+2,sub-16,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,11.96
+2,sub-16,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,14.31
+2,sub-16,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,11.33
+2,sub-16,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,8.91
+2,sub-16,06,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,18.81
+2,sub-16,06,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,26.30
+2,sub-16,06,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,16.21
+2,sub-16,06,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,19.36
+2,sub-16,06,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,14.28
+2,sub-16,06,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,12.91
+2,sub-16,06,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,14.20
+2,sub-16,06,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,16.60
+2,sub-16,07,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,25.89
+2,sub-16,07,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,16.95
+2,sub-16,07,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,13.90
+2,sub-16,07,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,13.90
+2,sub-16,07,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,14.97
+2,sub-16,07,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,8.90
+2,sub-16,07,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,13.84
+2,sub-16,07,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,8.90
+2,sub-16,08,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,19.61
+2,sub-16,08,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,16.11
+2,sub-16,08,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,16.11
+2,sub-16,08,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,27.02
+2,sub-16,08,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,9.45
+2,sub-16,08,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,9.45
+2,sub-16,08,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,9.45
+2,sub-16,08,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,9.45
+2,sub-17,01,5msma,0.5ms,perpend,gr_gr,예,자극 전 -5~-1,합친 방법,58.53
+2,sub-17,01,5msma,0.5ms,perpend,gr_gr,예,자극 전 -5~-1,쌍극자 스캔,58.53
+2,sub-17,01,5msma,0.5ms,perpend,gr_gr,예,자극 직후 0~5,합친 방법,13.46
+2,sub-17,01,5msma,0.5ms,perpend,gr_gr,예,자극 직후 0~5,쌍극자 스캔,14.53
+2,sub-17,01,5msma,0.5ms,perpend,gr_gr,예,자극 잡음 최대 5~12,합친 방법,16.96
+2,sub-17,01,5msma,0.5ms,perpend,gr_gr,예,자극 잡음 최대 5~12,쌍극자 스캔,14.28
+2,sub-17,01,5msma,0.5ms,perpend,gr_gr,예,초기 반응 15~40,합친 방법,16.59
+2,sub-17,01,5msma,0.5ms,perpend,gr_gr,예,초기 반응 15~40,쌍극자 스캔,13.14
+2,sub-17,02,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,42.71
+2,sub-17,02,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,42.71
+2,sub-17,02,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,22.84
+2,sub-17,02,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,27.96
+2,sub-17,02,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,20.83
+2,sub-17,02,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,21.24
+2,sub-17,02,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,22.10
+2,sub-17,02,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,20.11
+2,sub-17,03,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,52.62
+2,sub-17,03,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,17.43
+2,sub-17,03,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,13.81
+2,sub-17,03,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,14.60
+2,sub-17,03,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,6.85
+2,sub-17,03,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,9.00
+2,sub-17,03,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,2.72
+2,sub-17,03,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,6.13
+2,sub-17,04,3ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,합친 방법,47.98
+2,sub-17,04,3ma,0.5ms,perpend,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,56.36
+2,sub-17,04,3ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,합친 방법,30.85
+2,sub-17,04,3ma,0.5ms,perpend,gr_wh,예,자극 직후 0~5,쌍극자 스캔,29.78
+2,sub-17,04,3ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,합친 방법,19.81
+2,sub-17,04,3ma,0.5ms,perpend,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,28.50
+2,sub-17,04,3ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,합친 방법,20.14
+2,sub-17,04,3ma,0.5ms,perpend,gr_wh,예,초기 반응 15~40,쌍극자 스캔,20.14
+2,sub-17,05,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,30.41
+2,sub-17,05,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,40.15
+2,sub-17,05,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,17.57
+2,sub-17,05,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,19.62
+2,sub-17,05,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,9.75
+2,sub-17,05,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,11.10
+2,sub-17,05,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,10.23
+2,sub-17,05,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,12.73
+2,sub-17,06,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,합친 방법,24.74
+2,sub-17,06,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,35.93
+2,sub-17,06,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,합친 방법,22.30
+2,sub-17,06,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,쌍극자 스캔,10.95
+2,sub-17,06,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,합친 방법,5.63
+2,sub-17,06,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,7.44
+2,sub-17,06,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,합친 방법,9.20
+2,sub-17,06,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,쌍극자 스캔,8.19
+2,sub-17,07,3ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,36.58
+2,sub-17,07,3ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,61.30
+2,sub-17,07,3ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,22.84
+2,sub-17,07,3ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,28.67
+2,sub-17,07,3ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,24.27
+2,sub-17,07,3ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,24.27
+2,sub-17,07,3ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,24.27
+2,sub-17,07,3ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,28.93
+2,sub-17,08,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,45.94
+2,sub-17,08,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,45.94
+2,sub-17,08,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,15.23
+2,sub-17,08,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,15.91
+2,sub-17,08,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,4.11
+2,sub-17,08,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,10.43
+2,sub-17,08,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,4.11
+2,sub-17,08,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,10.35
+2,sub-17,09,5ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,합친 방법,45.08
+2,sub-17,09,5ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,쌍극자 스캔,53.01
+2,sub-17,09,5ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,합친 방법,29.69
+2,sub-17,09,5ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,쌍극자 스캔,35.03
+2,sub-17,09,5ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,합친 방법,16.13
+2,sub-17,09,5ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,쌍극자 스캔,14.79
+2,sub-17,09,5ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,합친 방법,14.75
+2,sub-17,09,5ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,쌍극자 스캔,15.42
+2,sub-17,10,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,합친 방법,18.85
+2,sub-17,10,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,23.07
+2,sub-17,10,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,합친 방법,12.11
+2,sub-17,10,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,쌍극자 스캔,12.83
+2,sub-17,10,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,합친 방법,12.11
+2,sub-17,10,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,8.38
+2,sub-17,10,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,합친 방법,5.95
+2,sub-17,10,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,쌍극자 스캔,5.95
+2,sub-18,01,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,29.53
+2,sub-18,01,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,34.49
+2,sub-18,01,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,29.53
+2,sub-18,01,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,34.49
+2,sub-18,01,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,38.21
+2,sub-18,01,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,38.21
+2,sub-18,01,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,38.21
+2,sub-18,01,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,38.21
+2,sub-18,02,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,52.75
+2,sub-18,02,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,55.60
+2,sub-18,02,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,55.60
+2,sub-18,02,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,59.40
+2,sub-18,02,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,9.22
+2,sub-18,02,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,9.17
+2,sub-18,02,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,5.91
+2,sub-18,02,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,9.60
+2,sub-18,03,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,58.39
+2,sub-18,03,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,43.66
+2,sub-18,03,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,25.93
+2,sub-18,03,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,22.39
+2,sub-18,03,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,10.87
+2,sub-18,03,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,12.00
+2,sub-18,03,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,2.34
+2,sub-18,03,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,2.34
+2,sub-18,04,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,51.46
+2,sub-18,04,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,53.61
+2,sub-18,04,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,51.88
+2,sub-18,04,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,50.76
+2,sub-18,04,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,10.37
+2,sub-18,04,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,15.35
+2,sub-18,04,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,9.09
+2,sub-18,04,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,13.47
+2,sub-18,05,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,36.47
+2,sub-18,05,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,36.47
+2,sub-18,05,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,36.47
+2,sub-18,05,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,36.47
+2,sub-18,05,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,42.23
+2,sub-18,05,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,36.25
+2,sub-18,05,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,29.76
+2,sub-18,05,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,29.76
+2,sub-18,06,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,25.72
+2,sub-18,06,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,27.03
+2,sub-18,06,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,22.94
+2,sub-18,06,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,23.93
+2,sub-18,06,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,30.04
+2,sub-18,06,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,30.04
+2,sub-18,06,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,23.81
+2,sub-18,06,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,24.47
+2,sub-18,07,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,28.44
+2,sub-18,07,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,23.96
+2,sub-18,07,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,23.96
+2,sub-18,07,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,31.35
+2,sub-18,07,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,20.53
+2,sub-18,07,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,23.58
+2,sub-18,07,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,7.32
+2,sub-18,07,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,8.14
+2,sub-18,08,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,35.10
+2,sub-18,08,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,18.95
+2,sub-18,08,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,21.51
+2,sub-18,08,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,20.89
+2,sub-18,08,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,34.26
+2,sub-18,08,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,36.37
+2,sub-18,08,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,34.96
+2,sub-18,08,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,42.58
+2,sub-18,09,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,42.75
+2,sub-18,09,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,44.70
+2,sub-18,09,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,47.38
+2,sub-18,09,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,44.70
+2,sub-18,09,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,35.14
+2,sub-18,09,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,35.14
+2,sub-18,09,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,38.36
+2,sub-18,09,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,31.34
+2,sub-18,10,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,15.91
+2,sub-18,10,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,15.91
+2,sub-18,10,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,14.96
+2,sub-18,10,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,15.91
+2,sub-18,10,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,15.91
+2,sub-18,10,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,15.91
+2,sub-18,10,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,16.41
+2,sub-18,10,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,14.96
+2,sub-23,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,34.40
+2,sub-23,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,25.42
+2,sub-23,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,28.39
+2,sub-23,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,27.67
+2,sub-23,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,35.51
+2,sub-23,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,35.51
+2,sub-23,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,8.62
+2,sub-23,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,10.19
+2,sub-23,02,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,15.19
+2,sub-23,02,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,15.19
+2,sub-23,02,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,15.19
+2,sub-23,02,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,12.57
+2,sub-23,02,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,15.19
+2,sub-23,02,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,12.57
+2,sub-23,02,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,22.20
+2,sub-23,02,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,19.36
+2,sub-23,03,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,31.43
+2,sub-23,03,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,26.33
+2,sub-23,03,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,9.60
+2,sub-23,03,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,19.46
+2,sub-23,03,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,7.36
+2,sub-23,03,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,7.36
+2,sub-23,03,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,9.26
+2,sub-23,03,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,9.26
+2,sub-23,04,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,25.07
+2,sub-23,04,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,26.91
+2,sub-23,04,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,19.00
+2,sub-23,04,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,18.39
+2,sub-23,04,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,15.46
+2,sub-23,04,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,15.46
+2,sub-23,04,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,21.62
+2,sub-23,04,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,22.41
+2,sub-23,05,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,15.26
+2,sub-23,05,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,22.64
+2,sub-23,05,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,9.12
+2,sub-23,05,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,9.34
+2,sub-23,05,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,8.30
+2,sub-23,05,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,9.97
+2,sub-23,05,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,8.53
+2,sub-23,05,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,8.53
+2,sub-23,06,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,26.03
+2,sub-23,06,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,27.87
+2,sub-23,06,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,23.41
+2,sub-23,06,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,31.76
+2,sub-23,06,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,5.45
+2,sub-23,06,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,9.04
+2,sub-23,06,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,12.73
+2,sub-23,06,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,10.83
+2,sub-23,07,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,33.26
+2,sub-23,07,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,33.26
+2,sub-23,07,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,27.89
+2,sub-23,07,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,23.43
+2,sub-23,07,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,21.44
+2,sub-23,07,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,20.87
+2,sub-23,07,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,10.18
+2,sub-23,07,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,13.27
+2,sub-23,08,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,10.97
+2,sub-23,08,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,9.58
+2,sub-23,08,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,5.71
+2,sub-23,08,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,7.69
+2,sub-23,08,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,4.83
+2,sub-23,08,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,4.83
+2,sub-23,08,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,9.28
+2,sub-23,08,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,7.75
+2,sub-23,09,5ma,1ms,perpend,wh_wh,,자극 전 -5~-1,합친 방법,24.94
+2,sub-23,09,5ma,1ms,perpend,wh_wh,,자극 전 -5~-1,쌍극자 스캔,24.94
+2,sub-23,09,5ma,1ms,perpend,wh_wh,,자극 직후 0~5,합친 방법,15.24
+2,sub-23,09,5ma,1ms,perpend,wh_wh,,자극 직후 0~5,쌍극자 스캔,18.90
+2,sub-23,09,5ma,1ms,perpend,wh_wh,,자극 잡음 최대 5~12,합친 방법,12.12
+2,sub-23,09,5ma,1ms,perpend,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,12.46
+2,sub-23,09,5ma,1ms,perpend,wh_wh,,초기 반응 15~40,합친 방법,19.41
+2,sub-23,09,5ma,1ms,perpend,wh_wh,,초기 반응 15~40,쌍극자 스캔,22.16
+2,sub-24,01,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,16.97
+2,sub-24,01,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,18.26
+2,sub-24,01,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,29.39
+2,sub-24,01,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,27.69
+2,sub-24,01,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,17.15
+2,sub-24,01,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,23.77
+2,sub-24,01,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,14.78
+2,sub-24,01,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,8.56
+2,sub-24,02,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,29.93
+2,sub-24,02,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,17.80
+2,sub-24,02,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,10.50
+2,sub-24,02,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,8.37
+2,sub-24,02,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,11.69
+2,sub-24,02,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,8.09
+2,sub-24,02,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,11.69
+2,sub-24,02,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,12.35
+2,sub-24,03,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,74.81
+2,sub-24,03,5ma,0.5ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,68.27
+2,sub-24,03,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,54.79
+2,sub-24,03,5ma,0.5ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,46.90
+2,sub-24,03,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,7.37
+2,sub-24,03,5ma,0.5ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,7.37
+2,sub-24,03,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,9.78
+2,sub-24,03,5ma,0.5ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,7.01
+2,sub-24,04,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,38.33
+2,sub-24,04,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,38.51
+2,sub-24,04,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,12.84
+2,sub-24,04,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,10.71
+2,sub-24,04,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,7.22
+2,sub-24,04,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,7.22
+2,sub-24,04,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,12.97
+2,sub-24,04,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,7.22
+2,sub-24,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,12.13
+2,sub-24,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,12.13
+2,sub-24,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,12.13
+2,sub-24,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,12.63
+2,sub-24,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,5.16
+2,sub-24,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,9.05
+2,sub-24,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,11.93
+2,sub-24,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,11.93
+2,sub-24,06,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,51.97
+2,sub-24,06,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,48.41
+2,sub-24,06,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,24.84
+2,sub-24,06,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,17.10
+2,sub-24,06,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,19.85
+2,sub-24,06,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,14.49
+2,sub-24,06,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,19.85
+2,sub-24,06,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,14.49
+2,sub-24,07,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,11.07
+2,sub-24,07,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,12.40
+2,sub-24,07,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,11.25
+2,sub-24,07,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,12.40
+2,sub-24,07,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,11.25
+2,sub-24,07,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,12.40
+2,sub-24,07,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,18.01
+2,sub-24,07,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,17.82
+2,sub-24,08,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,40.65
+2,sub-24,08,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,38.95
+2,sub-24,08,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,29.39
+2,sub-24,08,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,27.94
+2,sub-24,08,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,7.75
+2,sub-24,08,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,7.75
+2,sub-24,08,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,11.30
+2,sub-24,08,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,12.00
+2,sub-24,09,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,19.44
+2,sub-24,09,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,14.99
+2,sub-24,09,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,8.78
+2,sub-24,09,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,8.78
+2,sub-24,09,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,9.87
+2,sub-24,09,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,8.40
+2,sub-24,09,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,13.88
+2,sub-24,09,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,13.88
+2,sub-24,10,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,31.96
+2,sub-24,10,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,32.88
+2,sub-24,10,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,19.76
+2,sub-24,10,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,18.92
+2,sub-24,10,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,19.05
+2,sub-24,10,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,17.39
+2,sub-24,10,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,30.30
+2,sub-24,10,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,33.23
+2,sub-24,11,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,17.15
+2,sub-24,11,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,27.57
+2,sub-24,11,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,12.33
+2,sub-24,11,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,15.03
+2,sub-24,11,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,5.54
+2,sub-24,11,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,10.38
+2,sub-24,11,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,10.38
+2,sub-24,11,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,14.90
+2,sub-24,12,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,31.19
+2,sub-24,12,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,22.30
+2,sub-24,12,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,11.60
+2,sub-24,12,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,12.93
+2,sub-24,12,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,13.19
+2,sub-24,12,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,14.56
+2,sub-24,12,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,13.63
+2,sub-24,12,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,13.63
+2,sub-24,13,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,22.97
+2,sub-24,13,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,18.80
+2,sub-24,13,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,6.85
+2,sub-24,13,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,8.15
+2,sub-24,13,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,10.46
+2,sub-24,13,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,10.86
+2,sub-24,13,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,14.11
+2,sub-24,13,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,13.41
+2,sub-25,01,1ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,31.62
+2,sub-25,01,1ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,33.73
+2,sub-25,01,1ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,19.17
+2,sub-25,01,1ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,21.40
+2,sub-25,01,1ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,33.89
+2,sub-25,01,1ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,33.89
+2,sub-25,01,1ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,15.21
+2,sub-25,01,1ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,15.21
+2,sub-25,02,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,43.66
+2,sub-25,02,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,30.79
+2,sub-25,02,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,29.54
+2,sub-25,02,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,33.70
+2,sub-25,02,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,33.74
+2,sub-25,02,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,33.70
+2,sub-25,02,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,33.74
+2,sub-25,02,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,39.30
+2,sub-25,03,3ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,45.34
+2,sub-25,03,3ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,45.34
+2,sub-25,03,3ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,41.23
+2,sub-25,03,3ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,45.34
+2,sub-25,03,3ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,43.03
+2,sub-25,03,3ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,39.49
+2,sub-25,03,3ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,53.30
+2,sub-25,03,3ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,53.30
+2,sub-25,04,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,33.90
+2,sub-25,04,3ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,37.11
+2,sub-25,04,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,9.97
+2,sub-25,04,3ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,4.80
+2,sub-25,04,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,17.63
+2,sub-25,04,3ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,22.78
+2,sub-25,04,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,17.63
+2,sub-25,04,3ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,22.78
+2,sub-25,05,3ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,78.55
+2,sub-25,05,3ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,78.55
+2,sub-25,05,3ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,32.36
+2,sub-25,05,3ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,26.75
+2,sub-25,05,3ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,26.75
+2,sub-25,05,3ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,26.75
+2,sub-25,05,3ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,26.75
+2,sub-25,05,3ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,26.75
+2,sub-26,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,51.79
+2,sub-26,01,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,43.98
+2,sub-26,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,21.53
+2,sub-26,01,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,21.53
+2,sub-26,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,7.43
+2,sub-26,01,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,9.78
+2,sub-26,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,14.38
+2,sub-26,01,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,20.48
+2,sub-26,02,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,14.96
+2,sub-26,02,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,10.88
+2,sub-26,02,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,14.96
+2,sub-26,02,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,10.88
+2,sub-26,02,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,14.96
+2,sub-26,02,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,10.88
+2,sub-26,02,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,9.80
+2,sub-26,02,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,10.59
+2,sub-26,03,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,55.62
+2,sub-26,03,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,59.39
+2,sub-26,03,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,54.36
+2,sub-26,03,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,54.73
+2,sub-26,03,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,45.17
+2,sub-26,03,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,45.17
+2,sub-26,03,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,45.17
+2,sub-26,03,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,45.54
+2,sub-26,04,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,32.45
+2,sub-26,04,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,32.45
+2,sub-26,04,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,27.55
+2,sub-26,04,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,24.48
+2,sub-26,04,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,13.18
+2,sub-26,04,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,10.39
+2,sub-26,04,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,9.02
+2,sub-26,04,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,7.36
+2,sub-26,05,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,23.27
+2,sub-26,05,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,25.42
+2,sub-26,05,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,13.69
+2,sub-26,05,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,8.04
+2,sub-26,05,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,12.70
+2,sub-26,05,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,11.20
+2,sub-26,05,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,18.08
+2,sub-26,05,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,14.67
+2,sub-26,06,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,39.91
+2,sub-26,06,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,19.21
+2,sub-26,06,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,9.03
+2,sub-26,06,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,9.50
+2,sub-26,06,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,10.49
+2,sub-26,06,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,11.29
+2,sub-26,06,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,16.70
+2,sub-26,06,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,16.70
+2,sub-26,07,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,38.40
+2,sub-26,07,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,41.33
+2,sub-26,07,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,51.05
+2,sub-26,07,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,29.13
+2,sub-26,07,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,25.26
+2,sub-26,07,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,21.58
+2,sub-26,07,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,29.74
+2,sub-26,07,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,29.74
+2,sub-26,08,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,72.45
+2,sub-26,08,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,72.50
+2,sub-26,08,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,32.05
+2,sub-26,08,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,31.25
+2,sub-26,08,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,25.19
+2,sub-26,08,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,19.85
+2,sub-26,08,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,11.01
+2,sub-26,08,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,11.01
+2,sub-26,09,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,32.73
+2,sub-26,09,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,37.47
+2,sub-26,09,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,18.63
+2,sub-26,09,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,16.70
+2,sub-26,09,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,9.33
+2,sub-26,09,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,6.97
+2,sub-26,09,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,6.46
+2,sub-26,09,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,6.48
+2,sub-26,10,5ma,1ms,perpend,wh_wh,,자극 전 -5~-1,합친 방법,49.51
+2,sub-26,10,5ma,1ms,perpend,wh_wh,,자극 전 -5~-1,쌍극자 스캔,55.99
+2,sub-26,10,5ma,1ms,perpend,wh_wh,,자극 직후 0~5,합친 방법,29.64
+2,sub-26,10,5ma,1ms,perpend,wh_wh,,자극 직후 0~5,쌍극자 스캔,27.72
+2,sub-26,10,5ma,1ms,perpend,wh_wh,,자극 잡음 최대 5~12,합친 방법,12.85
+2,sub-26,10,5ma,1ms,perpend,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,9.72
+2,sub-26,10,5ma,1ms,perpend,wh_wh,,초기 반응 15~40,합친 방법,3.59
+2,sub-26,10,5ma,1ms,perpend,wh_wh,,초기 반응 15~40,쌍극자 스캔,5.93
+2,sub-28,01,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,합친 방법,19.11
+2,sub-28,01,5ma,0.5ms,parallel,wh_wh,예,자극 전 -5~-1,쌍극자 스캔,19.11
+2,sub-28,01,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,합친 방법,27.37
+2,sub-28,01,5ma,0.5ms,parallel,wh_wh,예,자극 직후 0~5,쌍극자 스캔,31.98
+2,sub-28,01,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,합친 방법,31.20
+2,sub-28,01,5ma,0.5ms,parallel,wh_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,36.36
+2,sub-28,01,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,합친 방법,35.88
+2,sub-28,01,5ma,0.5ms,parallel,wh_wh,예,초기 반응 15~40,쌍극자 스캔,39.02
+2,sub-28,02,5ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,합친 방법,18.94
+2,sub-28,02,5ma,0.5ms,parallel,gr_gr,예,자극 전 -5~-1,쌍극자 스캔,9.09
+2,sub-28,02,5ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,합친 방법,6.02
+2,sub-28,02,5ma,0.5ms,parallel,gr_gr,예,자극 직후 0~5,쌍극자 스캔,7.02
+2,sub-28,02,5ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,합친 방법,6.05
+2,sub-28,02,5ma,0.5ms,parallel,gr_gr,예,자극 잡음 최대 5~12,쌍극자 스캔,2.36
+2,sub-28,02,5ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,합친 방법,1.82
+2,sub-28,02,5ma,0.5ms,parallel,gr_gr,예,초기 반응 15~40,쌍극자 스캔,7.87
+2,sub-28,03,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,7.32
+2,sub-28,03,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,19.88
+2,sub-28,03,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,4.72
+2,sub-28,03,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,16.64
+2,sub-28,03,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,8.09
+2,sub-28,03,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,16.50
+2,sub-28,03,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,8.09
+2,sub-28,03,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,16.50
+2,sub-28,04,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,합친 방법,29.58
+2,sub-28,04,5ma,0.5ms,parallel,gr_wh,예,자극 전 -5~-1,쌍극자 스캔,15.82
+2,sub-28,04,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,합친 방법,25.86
+2,sub-28,04,5ma,0.5ms,parallel,gr_wh,예,자극 직후 0~5,쌍극자 스캔,15.82
+2,sub-28,04,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,합친 방법,21.34
+2,sub-28,04,5ma,0.5ms,parallel,gr_wh,예,자극 잡음 최대 5~12,쌍극자 스캔,15.82
+2,sub-28,04,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,합친 방법,17.45
+2,sub-28,04,5ma,0.5ms,parallel,gr_wh,예,초기 반응 15~40,쌍극자 스캔,15.82
+2,sub-30,01,3ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,합친 방법,62.36
+2,sub-30,01,3ma,0.5ms,perpend,wh_wh,,자극 전 -5~-1,쌍극자 스캔,61.51
+2,sub-30,01,3ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,합친 방법,32.09
+2,sub-30,01,3ma,0.5ms,perpend,wh_wh,,자극 직후 0~5,쌍극자 스캔,32.09
+2,sub-30,01,3ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,합친 방법,15.32
+2,sub-30,01,3ma,0.5ms,perpend,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,15.32
+2,sub-30,01,3ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,합친 방법,12.26
+2,sub-30,01,3ma,0.5ms,perpend,wh_wh,,초기 반응 15~40,쌍극자 스캔,12.26
+2,sub-30,02,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,22.41
+2,sub-30,02,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,22.64
+2,sub-30,02,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,13.99
+2,sub-30,02,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,13.44
+2,sub-30,02,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,10.86
+2,sub-30,02,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,10.86
+2,sub-30,02,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,13.73
+2,sub-30,02,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,13.34
+2,sub-30,03,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,25.34
+2,sub-30,03,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,22.48
+2,sub-30,03,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,20.49
+2,sub-30,03,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,18.34
+2,sub-30,03,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,18.81
+2,sub-30,03,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,11.81
+2,sub-30,03,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,18.81
+2,sub-30,03,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,13.48
+2,sub-30,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,37.10
+2,sub-30,04,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,32.14
+2,sub-30,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,8.95
+2,sub-30,04,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,13.60
+2,sub-30,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,1.96
+2,sub-30,04,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,5.55
+2,sub-30,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,9.41
+2,sub-30,04,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,3.24
+2,sub-30,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,33.63
+2,sub-30,05,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,52.68
+2,sub-30,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,18.08
+2,sub-30,05,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,21.66
+2,sub-30,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,21.97
+2,sub-30,05,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,19.06
+2,sub-30,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,26.70
+2,sub-30,05,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,24.59
+2,sub-30,06,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,24.08
+2,sub-30,06,5ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,33.05
+2,sub-30,06,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,18.33
+2,sub-30,06,5ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,22.35
+2,sub-30,06,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,16.04
+2,sub-30,06,5ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,15.65
+2,sub-30,06,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,14.56
+2,sub-30,06,5ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,14.56
+2,sub-30,07,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,19.14
+2,sub-30,07,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,24.60
+2,sub-30,07,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,13.19
+2,sub-30,07,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,16.11
+2,sub-30,07,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,17.11
+2,sub-30,07,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,18.96
+2,sub-30,07,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,23.64
+2,sub-30,07,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,24.92
+2,sub-30,08,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,14.52
+2,sub-30,08,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,14.52
+2,sub-30,08,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,9.33
+2,sub-30,08,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,13.13
+2,sub-30,08,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,8.19
+2,sub-30,08,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,12.66
+2,sub-30,08,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,5.82
+2,sub-30,08,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,11.25
+2,sub-30,09,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,8.57
+2,sub-30,09,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,4.17
+2,sub-30,09,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,5.67
+2,sub-30,09,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,5.55
+2,sub-30,09,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,1.32
+2,sub-30,09,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,5.37
+2,sub-30,09,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,7.76
+2,sub-30,09,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,6.76
+2,sub-30,10,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,31.69
+2,sub-30,10,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,46.14
+2,sub-30,10,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,19.98
+2,sub-30,10,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,20.91
+2,sub-30,10,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,11.13
+2,sub-30,10,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,6.61
+2,sub-30,10,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,20.66
+2,sub-30,10,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,9.85
+2,sub-32,01,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,31.29
+2,sub-32,01,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,47.04
+2,sub-32,01,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,34.76
+2,sub-32,01,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,46.31
+2,sub-32,01,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,33.85
+2,sub-32,01,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,46.31
+2,sub-32,01,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,27.15
+2,sub-32,01,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,20.28
+2,sub-32,02,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,23.25
+2,sub-32,02,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,30.00
+2,sub-32,02,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,33.60
+2,sub-32,02,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,36.35
+2,sub-32,02,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,35.30
+2,sub-32,02,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,40.79
+2,sub-32,02,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,29.07
+2,sub-32,02,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,35.73
+2,sub-32,03,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,44.46
+2,sub-32,03,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,47.68
+2,sub-32,03,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,29.31
+2,sub-32,03,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,36.71
+2,sub-32,03,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,17.46
+2,sub-32,03,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,31.12
+2,sub-32,03,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,11.79
+2,sub-32,03,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,36.38
+2,sub-32,04,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,30.37
+2,sub-32,04,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,39.01
+2,sub-32,04,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,33.62
+2,sub-32,04,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,39.38
+2,sub-32,04,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,35.72
+2,sub-32,04,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,41.20
+2,sub-32,04,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,32.45
+2,sub-32,04,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,42.53
+2,sub-32,05,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,17.56
+2,sub-32,05,3ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,21.13
+2,sub-32,05,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,21.46
+2,sub-32,05,3ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,32.93
+2,sub-32,05,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,16.98
+2,sub-32,05,3ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,30.50
+2,sub-32,05,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,18.10
+2,sub-32,05,3ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,32.32
+2,sub-32,06,3ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,31.19
+2,sub-32,06,3ma,0.5ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,51.53
+2,sub-32,06,3ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,34.99
+2,sub-32,06,3ma,0.5ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,56.79
+2,sub-32,06,3ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,37.74
+2,sub-32,06,3ma,0.5ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,51.69
+2,sub-32,06,3ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,32.68
+2,sub-32,06,3ma,0.5ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,50.99
+2,sub-32,07,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,37.00
+2,sub-32,07,3ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,47.92
+2,sub-32,07,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,31.78
+2,sub-32,07,3ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,42.60
+2,sub-32,07,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,27.97
+2,sub-32,07,3ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,30.82
+2,sub-32,07,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,24.32
+2,sub-32,07,3ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,31.10
+2,sub-32,08,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,36.38
+2,sub-32,08,3ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,47.08
+2,sub-32,08,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,36.38
+2,sub-32,08,3ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,47.08
+2,sub-32,08,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,35.00
+2,sub-32,08,3ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,44.79
+2,sub-32,08,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,35.00
+2,sub-32,08,3ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,44.79
+2,sub-33,01,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,24.53
+2,sub-33,01,5ma,0.5ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,27.70
+2,sub-33,01,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,10.34
+2,sub-33,01,5ma,0.5ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,18.53
+2,sub-33,01,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,10.34
+2,sub-33,01,5ma,0.5ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,14.42
+2,sub-33,01,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,10.34
+2,sub-33,01,5ma,0.5ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,8.00
+2,sub-33,02,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,33.16
+2,sub-33,02,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,37.58
+2,sub-33,02,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,27.92
+2,sub-33,02,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,27.92
+2,sub-33,02,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,27.92
+2,sub-33,02,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,27.92
+2,sub-33,02,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,32.27
+2,sub-33,02,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,33.02
+2,sub-33,03,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,28.15
+2,sub-33,03,5ma,0.5ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,30.38
+2,sub-33,03,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,18.87
+2,sub-33,03,5ma,0.5ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,18.87
+2,sub-33,03,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,21.54
+2,sub-33,03,5ma,0.5ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,19.20
+2,sub-33,03,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,30.98
+2,sub-33,03,5ma,0.5ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,33.72
+2,sub-33,04,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,43.92
+2,sub-33,04,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,44.42
+2,sub-33,04,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,24.94
+2,sub-33,04,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,23.39
+2,sub-33,04,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,25.20
+2,sub-33,04,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,25.20
+2,sub-33,04,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,32.94
+2,sub-33,04,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,25.20
+2,sub-33,05,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,39.07
+2,sub-33,05,5ma,0.5ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,41.02
+2,sub-33,05,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,16.50
+2,sub-33,05,5ma,0.5ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,9.57
+2,sub-33,05,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,14.37
+2,sub-33,05,5ma,0.5ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,4.46
+2,sub-33,05,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,15.11
+2,sub-33,05,5ma,0.5ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.07
+2,sub-34,01,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,24.25
+2,sub-34,01,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,27.44
+2,sub-34,01,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,15.30
+2,sub-34,01,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,15.05
+2,sub-34,01,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,16.04
+2,sub-34,01,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,11.15
+2,sub-34,01,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,10.66
+2,sub-34,01,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,10.66
+2,sub-34,02,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,30.51
+2,sub-34,02,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,28.19
+2,sub-34,02,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,24.35
+2,sub-34,02,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,30.51
+2,sub-34,02,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,24.35
+2,sub-34,02,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,30.51
+2,sub-34,02,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,27.17
+2,sub-34,02,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,30.51
+2,sub-34,03,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,65.12
+2,sub-34,03,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,68.20
+2,sub-34,03,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,47.13
+2,sub-34,03,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,48.36
+2,sub-34,03,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,39.14
+2,sub-34,03,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,39.34
+2,sub-34,03,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,48.72
+2,sub-34,03,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,51.67
+2,sub-34,04,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,합친 방법,56.34
+2,sub-34,04,5ma,1ms,parallel,gr_gr,,자극 전 -5~-1,쌍극자 스캔,50.99
+2,sub-34,04,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,합친 방법,56.05
+2,sub-34,04,5ma,1ms,parallel,gr_gr,,자극 직후 0~5,쌍극자 스캔,52.83
+2,sub-34,04,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,합친 방법,25.88
+2,sub-34,04,5ma,1ms,parallel,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,25.88
+2,sub-34,04,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,합친 방법,25.79
+2,sub-34,04,5ma,1ms,parallel,gr_gr,,초기 반응 15~40,쌍극자 스캔,27.51
+2,sub-34,05,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,69.33
+2,sub-34,05,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,75.86
+2,sub-34,05,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,61.41
+2,sub-34,05,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,56.28
+2,sub-34,05,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,53.91
+2,sub-34,05,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,53.91
+2,sub-34,05,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,57.01
+2,sub-34,05,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,53.51
+2,sub-34,06,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,합친 방법,66.06
+2,sub-34,06,5ma,1ms,parallel,wh_wh,,자극 전 -5~-1,쌍극자 스캔,66.26
+2,sub-34,06,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,합친 방법,66.37
+2,sub-34,06,5ma,1ms,parallel,wh_wh,,자극 직후 0~5,쌍극자 스캔,66.06
+2,sub-34,06,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,합친 방법,68.39
+2,sub-34,06,5ma,1ms,parallel,wh_wh,,자극 잡음 최대 5~12,쌍극자 스캔,73.61
+2,sub-34,06,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,합친 방법,52.79
+2,sub-34,06,5ma,1ms,parallel,wh_wh,,초기 반응 15~40,쌍극자 스캔,51.96
+2,sub-34,07,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,50.00
+2,sub-34,07,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,65.31
+2,sub-34,07,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,55.11
+2,sub-34,07,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,61.79
+2,sub-34,07,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,48.28
+2,sub-34,07,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,49.20
+2,sub-34,07,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,41.43
+2,sub-34,07,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,41.43
+2,sub-34,08,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,30.66
+2,sub-34,08,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,30.66
+2,sub-34,08,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,27.23
+2,sub-34,08,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,28.34
+2,sub-34,08,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,27.23
+2,sub-34,08,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,28.34
+2,sub-34,08,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,27.23
+2,sub-34,08,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,26.19
+2,sub-34,09,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,합친 방법,51.48
+2,sub-34,09,5ma,1ms,perpend,gr_wh,,자극 전 -5~-1,쌍극자 스캔,52.35
+2,sub-34,09,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,합친 방법,47.44
+2,sub-34,09,5ma,1ms,perpend,gr_wh,,자극 직후 0~5,쌍극자 스캔,47.64
+2,sub-34,09,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,합친 방법,42.84
+2,sub-34,09,5ma,1ms,perpend,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,45.12
+2,sub-34,09,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,합친 방법,34.92
+2,sub-34,09,5ma,1ms,perpend,gr_wh,,초기 반응 15~40,쌍극자 스캔,18.09
+2,sub-34,10,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,36.73
+2,sub-34,10,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,33.85
+2,sub-34,10,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,37.49
+2,sub-34,10,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,35.08
+2,sub-34,10,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,29.42
+2,sub-34,10,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,30.61
+2,sub-34,10,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,38.43
+2,sub-34,10,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,42.62
+2,sub-34,11,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,합친 방법,35.24
+2,sub-34,11,5ma,1ms,perpend,gr_gr,,자극 전 -5~-1,쌍극자 스캔,33.60
+2,sub-34,11,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,합친 방법,33.60
+2,sub-34,11,5ma,1ms,perpend,gr_gr,,자극 직후 0~5,쌍극자 스캔,33.60
+2,sub-34,11,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,합친 방법,31.83
+2,sub-34,11,5ma,1ms,perpend,gr_gr,,자극 잡음 최대 5~12,쌍극자 스캔,25.41
+2,sub-34,11,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,합친 방법,34.38
+2,sub-34,11,5ma,1ms,perpend,gr_gr,,초기 반응 15~40,쌍극자 스캔,32.96
+2,sub-34,12,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,합친 방법,27.33
+2,sub-34,12,5ma,1ms,parallel,gr_wh,,자극 전 -5~-1,쌍극자 스캔,33.57
+2,sub-34,12,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,합친 방법,22.61
+2,sub-34,12,5ma,1ms,parallel,gr_wh,,자극 직후 0~5,쌍극자 스캔,30.05
+2,sub-34,12,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,합친 방법,25.17
+2,sub-34,12,5ma,1ms,parallel,gr_wh,,자극 잡음 최대 5~12,쌍극자 스캔,26.70
+2,sub-34,12,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,합친 방법,34.49
+2,sub-34,12,5ma,1ms,parallel,gr_wh,,초기 반응 15~40,쌍극자 스캔,31.56
