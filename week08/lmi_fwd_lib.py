@@ -51,3 +51,21 @@ def forward(S, E_head, skull=0.006, scalp=0.3, brain=0.3):
     info.set_montage(mne.channels.make_dig_montage(ch_pos=dict(zip(S["names"], E_head)), coord_frame="head"))
     fwd = mne.make_forward_solution(info, trans=S["trans"], src=S["src"], bem=bem, meg=False, eeg=True, mindist=0.0)
     return fwd["sol"]["data"].reshape(len(S["names"]), -1, 3)
+
+
+def bem_solution(S, skull=0.006, scalp=0.3, brain=0.3):
+    surfs = copy.deepcopy(S["surfs"])
+    for s in surfs:
+        s["sigma"] = {F.FIFFV_BEM_SURF_ID_BRAIN: brain, F.FIFFV_BEM_SURF_ID_SKULL: skull, F.FIFFV_BEM_SURF_ID_HEAD: scalp}[s["id"]]
+    return mne.make_bem_solution(surfs)
+
+
+def dipole_fields(S, E_head, bem, pos_head, ori):
+    """임의 위치(머리 좌표, m)·방향의 쌍극자가 만드는 전극 값 (n, 채널). 피질 위가 아니어도 됨"""
+    info = mne.create_info(S["names"], 1000.0, "eeg")
+    info.set_montage(mne.channels.make_dig_montage(ch_pos=dict(zip(S["names"], E_head)), coord_frame="head"))
+    n = len(pos_head)
+    dip = mne.Dipole(np.arange(n) * 1e-3, pos_head, np.ones(n) * 1e-8, ori, np.ones(n))
+    fwd, stc = mne.make_forward_dipole(dip, bem, info, trans=S["trans"], verbose=False)
+    G = fwd["sol"]["data"]                                     # (채널, n) — 방향 고정
+    return G.T
