@@ -25,7 +25,15 @@
 
 ## 저장소 구조
 
-- `week01`~`week09/`: 실험 코드와 결과. **폴더 번호는 노션 미팅 노트의 Week 번호와 다르다** (노션 Week 7 = 저장소 week07~week09). 새 작업은 `week10/`부터.
+- `week01`~`week09/`: 지난 실험 코드와 결과. **이 폴더 번호는 노션 미팅 노트의 Week 번호와 다르다.**
+- **폴더 이름 규칙 (2026-11-24부터)**: 새 작업 폴더는 노션 Week 번호를 써서 `n08_주제` 형식으로 만든다 (예: `n08_speed`). `weekNN/` 폴더는 더 만들지 않는다.
+- 노션 Week ↔ 저장소 폴더 대응표
+
+  | 노션 미팅 노트 | 저장소 폴더 |
+  |---|---|
+  | Week 1~6 | `week01`~`week06` |
+  | Week 7 | `week07`~`week09` |
+  | Week 8 | `n08_*` (예: `n08_speed` = 목표 7 쌍극자 스캔 속도) |
 - 주요 파일
   - `week05/oasis_pipeline.py`: FreeSurfer 처리된 피험자 → 리드필드 npz (fsaverage ico-4, 5,124곳 대응)
   - `week06/oasis_headcount.py`, `week09/real_headcount.py`: 학습 머리 수 곡선 (변형 머리 / 실제 뇌 모양)
